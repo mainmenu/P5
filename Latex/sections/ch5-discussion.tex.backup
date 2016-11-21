@@ -1,0 +1,52 @@
+\section{Discussion}
+
+In this project we have looked at a cube that will jump up and balance itself. 
+We have designed a nonlinear and linear controller for the system we have engineered.
+The project has been more challenging than expected.
+The first and the utmost problem we encountered was the hardware acquirement because the setup what we designed has been delayed more then 4 weeks at this point.
+To be more specific while completing the report in hand we still do not have the mechanical pieces for the system, but will hopefully have them by the presentation of the project.
+
+In this paper you have mainly seen the theory behind the device.
+We now need to see if we completed any of our set aims.
+
+\begin{itemize}
+ \item Build a simulation model for this specific system
+ \\Done
+ \item Build the real plant of this system
+ \\Not done because of not having the hardware due to delays what were not inflicted by us.
+ \item Determination of system parameters
+ \\Theoretically achived but again not in practis because of harware delays
+ \item Design a linear controller for the system
+ \\Done
+ \item Design a nonlinear controller for the system
+ \\Done
+ \item Impliment the designed controller on the real plant and evaluate the results
+ \\Not done beacause lack of hardware
+\end{itemize}
+
+We must mention that the aims what were not achived will be hopefully completed by the time we present our project.
+
+First we wanted to make simulation model for the system.
+As we can see from the simulink chapter we have designed a working model for that specific setup that we have described through out the paper in hand.
+By analyzing the graphs for the linear and nonlinear controller we can see that the linear controller designed seems to be working.
+
+On the nonlinear version we can see nicely how the body gets out of the balancing position and then regains the upright position in about 1 second.
+In that case we must say that to achive the balancing point in that time is fairly quick if we take into concideration the complexity of the whole setup.
+
+While designing the nonlinear controller we had difficulties at first making the state matrix $A$, because there were some mathematical errors concerning the nonlinear dynamic equation.
+Luckily the errors were corrected after consulting with a mathematician.
+Hereby we feel that we have to thank Päivo Simson from Tallinn Technical University, who helped us on crucial moments in the formulation of those equations.
+
+Even that we can see that the linear version works in some degree we still have doubts about it.
+The doubts are mainly fuled by the very small fluxuation in the body displacement.
+As previously been acquainted with dynamical mechanics we could see that in real life that linear system would not work.
+Therefore we should be more critical towards ourselves and the work we do while taking on future projects of similar degree.
+
+
+In the beginning of this project we concidered using PID controller.
+Thanks to our supervisors that idea was buried quikly due to the nature of the system.
+In the device at hand we have constantly changing factors and we quickly understood how the state space version is alot better.
+While designing the state space model we got very familiar with the method and will probably use that again when there are need to design a dynamic controller in the future.
+
+The determination of the parameters was done theoretically. 
+The suggested experiments for that will hopefully be done by the presentation of this project and we can then see if the theory what we have come up with holds it's ground.

@@ -1,0 +1,24 @@
+\section{Introduction}
+In this project we will try to understand and implement controlling of an unbalanced device via using non-linear control.
+Our aim is to build a prototype for a cube what would be able to move and balance on its edges without external forces.
+The cube would move and balance itself thanks to the embedded reaction wheel.
+Goal of our project is to make one side of the cube and try to implement the nonlinear controller that we develop during this project.
+The idea was adapted from an older work done in ETH Zurich, Switzerland by Mohanarajah Gajamohan, Michael Merz, Igor Thommen and Raffaello D’Andrea.\cite{cubli12}
+In the mentioned project they finally completed the whole cubic, but in our case we are only looking forward to build one side of it in the duration of this project.
+
+We have taken up this project because it is a challenge for us to make this kind of a controller that can balance the system and maintain it.
+Similar kind of systems are used in self assemling robots and satellites.\cite{selfrobot}\cite{satellite}
+Since the work on using the reaction wheel and other ideas in these kind on projects is still ongoing we feel that this work is actual and worth the effort.
+
+The principle of the device is simple. 
+First we make the wheel go very fast and then bring it to a rapid stop by breaking the wheel with a servo motor. 
+Energy what was stored on the wheel then transforms over to the whole body and the system should move to the desired position.
+If the modelling proves to be corret we should have the body in upright position.
+
+Balancing of the body is done by using the torque of the reaction wheel dependent on the side that it is leaning towards to.
+To measure the offset of the body we use the Earth's gravity and an accelerometer.
+The angle of the offset and thus the required torque is calculated by the projection of the gravity vector what we get from the sensor.
+
+Controlling of the system is done by a non-linear controller implemented by software on a microcontroller.
+Rapid breaking of the wheel is done by a servo motor mounted on the body.
+In next chapters we will give more in depth about what we did and how.

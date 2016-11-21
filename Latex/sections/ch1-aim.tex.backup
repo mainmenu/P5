@@ -1,0 +1,17 @@
+\section{Aims of the project}
+The aim of this project is to build a prototype for a cube that jumps up and balances on one of its corners.
+More specifically the aims are listed below
+
+\begin{itemize}
+ \item Build a simulation model for this specific system
+ \item build the real plant of this system
+ \item Determination of system parameters
+ \item Design a linear controller for the system
+ \item Design a nonlinear controller for the system
+ \item Impliment the designed controller on the real plant and evaluate the results
+\end{itemize}
+In the end of this paper we can hopefully give a positive answer to all of those points described above.
+We have fully understood that the amount of work and dedication needed to fulfil these goals is quite big.
+The biggest and most important goal is to learn and understand the controlling of the system and be able to implement that knowledge on fututre tasks.
+
+

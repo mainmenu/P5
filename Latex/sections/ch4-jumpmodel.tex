@@ -1,0 +1,66 @@
+%newest one
+\section{Model of jump up}
+In our system it is crutial that we get the cube to jump up from the ground to the edge.
+In this section we are looking the theory behind the jumping motion.
+
+
+First we look at the equations for rotational kinetic energy of the wheel and potential energy of the whole system. 
+\begin{equation}
+  \label{eq:kinetic rotational energy}
+  E_{KR}= \frac{1}{2}I_{\omega }\dot{\Theta_{\omega }}^{2}
+\end{equation}
+Inertia of the wheel is described as
+\begin{equation}
+  \label{eq:moment of inertia of the wheel}
+  I_{\omega }=m_{\omega }r^{2}
+\end{equation}
+The potential and kinetic energy we are looking for is the difference between the two states(when the cube is on one side and when on edge).
+\begin{equation}
+  \label{eq:potential energy difference}
+  E_{pot}={E_{pot}}''-{E_{pot}}'
+\end{equation}
+Potential energy described on one side.
+\begin{equation}
+  \label{eq:first potential energy}
+  {E_{pot}}'=mgh=(m_{w}+m_{b})gl
+\end{equation}
+Potential energy described on the edge.
+\begin{equation}
+  \label{eq second potential energy}
+  {E_{pot}}''=mgh\sqrt{2}=(m_{w}+m_{b})gl\sqrt{2}
+\end{equation}
+Now we take into concideration that our system has ideal breaking system and the whole kinetic energy of the wheel is transformed into the potential energy of the whole system.
+\begin{equation}
+  \label{eq:wheel kinetic energy transformed into cubes potential energy}
+  E_{KR}=E_{pot}
+\end{equation}
+Now we combine the equations
+\begin{equation}
+  \label{eq:combination of all the previous equations}
+  \frac{1}{2}m_{w}r^{2}\dot{\Theta_{w}}^{2}=(m_{w}+m_{b})g(l\sqrt{2}-l)
+\end{equation}
+And finally whe take on to the one side of the equation all that we need.
+\begin{equation}
+  \label{eq square of the speed needed for the cube to jump in position}
+  \dot{\Theta_{w}}^{2}=\frac{2(\sqrt{2}-1)(m_{w}+m_{b})gl}{m_{w}r^{2}}
+\end{equation}
+$E_{KR}$ is the kinetic energy of the wheel.
+$E_{pot}$, $E_{pot}'$ and $E_{pot}''$ are the potential energies used in the model.
+$m_{w}$ is the mass of the wheel.
+$m_{b}$ is the mass of the whole system without the wheel.
+$l$ is the lenght from the pivot point to the center of the mass.
+$g$ is the gravitational pull.
+$\dot{\Theta_{w}}$ is the rotational speed of the wheel.
+$r$ is the radius of the wheel.
+
+
+From here we have the model for jumping up on the edge.
+In this part of the sequence we do not need to implement any control theory because we have no changing parameters.
+Jumping up is fine tuned with practical experiments because in real life we still have some unexpected variables effecting the system for example the data and powerlines going in to the section wheel and the sensor.
+In this case we are not concidering drag nor friction because we know that in reality we cannot make the breaking system ideal and therefore we have some error in calculation anyways.
+Furthermore in peliminary assesment the friction and drag losses are very low relative to the whole system energy changes.
+
+Now when we enter the assuming parameters of the system into the equation what we determined above we can see what is the estimated wheel speed that we need to move the cube into the desired position.
+All the parameters used in this sequence are taken from the data.m file into which we got them from estimating the possible parameters of the system.
+After running through the calculations we get that the estimated wheel speed would be 30,247rad/s what is approximately 288 degrees/s.
+

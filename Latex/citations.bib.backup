@@ -1,0 +1,46 @@
+
+
+@book{cubli12,
+author={Mohanarajah Gajamohan, Michael Merz, Igor Thommen, Raffaello D’Andrea},
+title={The Cubli: A Cube That Tan Jump Up and Balance},
+publisher={Vilamoura, Algarve, Portugal},
+year={2012},
+}
+
+@book{clugston09,
+author={M. J. Clugston},
+title={The Penguin Dictionary of Science},
+publisher={London, England,3rd edition},
+year={2009},
+}
+
+
+
+@book{satellite,
+	author={Sungpil Kim, Youdan Kim},
+	title={Spin-Axis Stabilization of a Rigid Spacecraft Using Two Reaction Wheels},
+	publisher={Seoul, Republic of Korea},
+	year={2001},
+}
+
+
+
+
+@book{selfrobot,
+	author = {John W. Romanishin, Kyle Gilpin, Daniela Rus},
+	title = {M-Blocks: Momentum-driven, Magnetic Modular Robots},
+	publisher={Cambridge, Massachusetts},
+	date = {2013},
+}
+
+@misc{smallangle,
+  title = {SPU 26 Ref 6: Small Angle Approximation},
+  howpublished = {\url{http://isites.harvard.edu/fs/docs/icb.topic1386948.files/Small%20angle%20approximation.pdf}},
+  note = {Accessed: 2016-05-20}
+}
+
+@misc{cublipic,
+  title = {Swiss Cubli Takes The Balance Wheel To A New Level},
+  howpublished = {\url{http://www.ablogtowatch.com/swiss-cubli-takes-balance-wheel-new-level/}},
+  note = {Accessed: 2016-05-24}
+}

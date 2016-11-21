@@ -1,0 +1,138 @@
+%newest one
+\section{Model of balancing in edge position}
+
+When the device has made the jump up sequence, it will start balancing on the corner of the cube.
+The model for balancing the cube is based on the Newton's laws of motion.
+
+``Newton's laws of motion: The fundamental laws of mechanics that describe the way in which bodies in an internal frame move in response to the forces acting on them.
+
+Newton's first law, also called Galileo's law, states that a body continues to move with a constant velocity or to main at rest unless acted on by an unbalanced external force.
+
+Newton's second law states that the rate of change of momentum $p$ of a body equals the total force $F$ acting upon it:
+\begin{equation}
+ F=dp/dt
+\end{equation}
+
+If, as is normally the case, the mass of the body is constant, $F=\frac{d(mv)}{dt}$ reduces to $F=m\frac{dv}{dt}$ or 
+\begin{equation}
+ F=ma
+\end{equation}
+
+where a is the acceleration of the body.
+Note that the force and acceleration are vectors. The first law is the null case of the second law (if $F=0$ then $a=0$).
+
+Newton's third law states that if a body A exerts a force $F$ on body B, then body B exerts a force $-F$ on body A.''\cite{clugston09}
+
+From here we can see that if we apply a force on the wheel then it will be counteracted by the movement of the whole body.
+In our case we do it the opposite way. 
+That means if the body is not on the balencing point it will be moved by the gravitational force towards the lower point of energy, which is the body on one of the sides in our case.
+
+From the Newton's laws we will take that if the body is moved by an external force we have to couteract it with the force produced in the motor.
+Since torque is the moment of force \cite{clugston09} we can see that in the case of unbalanced system we have to use the wheels torque to get it back on the balancing point.
+From here we can state that $T_{b}$ the torque of the body must equal to $T_{w}$ the torque of the wheel.
+
+\begin{equation}
+ T_{b}=T_{w}
+\end{equation}
+
+In our case it is importatnt to base the model that we can have so that the input to the motor is current.
+We need the input current because $T_{m}=K_{m}u$ where $T_{}$ is the motor torque, $K_{m}$ is the torque constant and $u$ is the input current.
+Thus we get the equation:
+\begin{equation}
+ T_{b}=K_{m}u
+\end{equation}
+
+The offset angle is determined by the gravity vector. 
+The accelerometer is set so that the x axis of the sensor is orthogonal to the vertical axis of the body when it is in upright position.
+The sensor is in the position that on the x axis of it it will allways show the projection of the gravity vector what is actually affecting the system.
+As we can see from the figure below the force what is affecting the body to tilt is $(m_{b}+m_{w})gsin(\theta_{b})$.
+%insert pic of the system tilted a bit and the angles on it
+
+Now we must get the torque of the whole body to determin the relationship between the offset angle and required torque.
+\begin{equation}
+ T_{b}=(m_{b}+m_{w})l_{b}sin(\theta_{b})
+\end{equation}
+Where $m_{b}$ is the mass of the body, $m_{w}$ is the mass of the wheel, $l_{b}$ is the lenght from pivot point to the mass centre and $\theta_{b}$ is the offset angle.
+Furthermore we must take into concideration the friction betrween the bearings on the pivot point and the internal friction of the DC motor.
+
+\begin{equation}
+ (m_{b}+m_{w})l_{b}sin(\theta_{b})-C_{b}\dot{\theta_{b}}=K_{m}u-C_{w}\dot{\theta_{w}}
+\end{equation}
+
+Where $C_{b}$ is the friction coefficient of the body, $\dot{\theta_{b}}$ angular speed of the body, $C_{w}$ is the friction coefficient of the DC motor and $\dot{\theta_{w}}$ is the angular speed of the motor.
+From here we can get the equation for our system based on the current input.
+\begin{equation}
+ u=\frac{(m_{b}+m_{w})l_{b}gsin(\theta_{b})+C_{w}\dot{\theta_{w}}-C_{b}\dot{\theta_{b}}}{K_{m}}
+\end{equation}
+
+
+
+
+
+
+
+
+
+{\LARGE what with that below (copied from extra file)??}
+
+\subsection{Non-linear dynamics of the setup}
+We have determined the equation for our system:
+\begin{equation}
+\label{eq:Non-linear dynamics11}
+\ddot{\Theta_{b}}I_{b}+\ddot{\Theta_{b}}m_{w}l^{2}=(m_{b}l_{b}+m_{w}l)gsin(\Theta_{b})-T_{m}-C_{b}\dot{\Theta_{b}}+C_{w}\dot{\Theta_{w}}
+\end{equation}
+Here we have the same equation made to correspond to the angular acceleration of the body.
+\begin{equation}
+\label{eq:Non-linear dynamics12}
+\ddot{\Theta_{b}}=\frac{(m_{b}l_{b}+m_{w}l)gsin(\Theta_{b})-T_{m}-C_{b}\dot{\Theta_{b}}+C_{w}\dot{\Theta_{w}}}{I_{b}+m_{w}l^{2}}
+\end{equation}
+Second equation for the non-linear dynamics of the system
+\begin{equation}
+\label{eq:Non-linear dynamics21}
+\ddot{\Theta_{w}}(I_{b}+m_{w}l^{2})=\frac{(I_{b}+I_{w}+m_{w}l^{2})(T_{m}-C_{w}\dot{\Theta_{w}})}{I_{w}}-(m_{b}l_{b}+m_{w}l)gsin(\Theta_{b})-C_{b}\dot{\Theta_{b}}
+\end{equation}
+And now we make the equation according to the $\ddot{\Theta_{w}}$
+\begin{equation}
+\label{eq:Non-linear dynamics22}
+\ddot{\Theta_{w}}=\frac{(I_{b}+I_{w}+m_{w}l^{2})(T_{m}-C_{w}\dot{\Theta_{w}})}{I_{w}(I_{b}+m_{w}l^{2})}-\frac{(m_{b}l_{b}+m_{w}l)gsin(\Theta_{b})-C_{b}\dot{\Theta_{b}}}{(I_{b}+m_{w}l^{2})}
+\end{equation}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{\LARGE what with that below (copied from extra file)??}
+
+\subsection{Moment of inertia}
+In our project the moment of inertia is one of the main properties what makes the system work.
+We feel that it is vital to give a short description of the moment of inertia
+
+For a rigid body rotating about an axis, the sum of the mass $m_{i}$ of each part of the body multiplied by the square of the pendicular distance $r_{i}$ to the axis: $I=\sum_{i}m_{i}r_{i}^{2}$.
+It relates the angular momentum $L$ of a body to its angular velocity $\omega$ as $L=I\omega$, and the torque $T$ (moment of force) to its angular acceleration $\alpha$ as $T=I\alpha$.
+\cite{clugston09}
+
+
+
+
+
+
+
+
+
+
+
+
+{\Huge it should end with state space model? do you want me to write that subsection?}

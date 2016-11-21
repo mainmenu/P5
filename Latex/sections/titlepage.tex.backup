@@ -1,0 +1,42 @@
+\pdfbookmark[0]{English title page}{label:titlepage_en}
+\aautitlepage{%
+  \englishprojectinfo{
+    Cube shaped balancing system
+  }{%
+    Scientific Theme %theme
+  }{%
+    Spring Semester 2016 %project period
+  }{%
+    H107 % project group
+  }{%
+    %list of group members
+Mihkel Soolep\\
+
+  }{%
+    %list of supervisors
+Christian Mai\\
+Leif Hansen
+  }{%
+    3 % number of printed copies
+  }{%
+    \today % date of completion
+  }%
+}{%department and address
+  \textbf{School of Information and Communication Technology}\\
+  Niels Bohrs Vej 8\\
+  DK-6700 Esbjerg\\
+  \href{http://sict.aau.dk}{http://sict.aau.dk}
+}{% the abstract
+
+
+
+
+
+	here comes abstract
+	
+	
+	
+	
+	
+	
+}

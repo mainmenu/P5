@@ -1,0 +1,84 @@
+\section{Parameters identification}
+
+
+\subsection{Mass centre}
+In order to make our 
+
+%newest one
+\subsection{Motor friction coefficient}
+In this subsection we concentrate on measuring the friction coefficient of the DC motor we are using.
+We have come up with a experiment where we make the wheel rotate with a constant speed and then we measure the voltage on the motor and take the motor speed from the motor aswell.
+\begin{equation}
+	\label{eq:friction coefficient}
+	T_{m}=K_{m}u
+\end{equation}
+So if we look our experiment then we recon that the only force restricting the motor is friction. 
+We must make a equation suitable for our experiment.
+\begin{equation}
+	\label{eq:friction in motor}
+	I_{w}\ddot{\Theta_{w}}(t)=K_{m}u(t)-C_{w}\dot{\Theta_{w}}
+\end{equation}
+Where $I_{w}$ is the inertia of the wheel and $K_{m}$ is the torque constant of the brushless DC motor used and $u$ is the current input.
+\begin{equation}
+	\label{eq:friction in motor according to friction coefficient}
+	C_{w}=\frac{K_{m}u(t)-I_{w}\ddot{\Theta_{w}}(t)}{\dot{\Theta_{w}}(t)}
+\end{equation}
+Here we can see that we have to take the reading of the current input and the wheel speed since we are spinning the wheel in constant speed we can doneta the acceleration to zero.
+The motor friction cefficient is measured on different speeds to get the most accurate readings.
+From the equation we can see if we spinn the wheel on constant speed we can lose the acceleration part and the formulae becomes:
+\begin{equation}
+	\label{eq:friction in motor according to friction coefficient}
+	C_{w}=\frac{K_{m}u(t)}{\dot{\Theta_{w}}(t)}
+\end{equation}
+From here we can get the friction coefficient of the DC motor.
+
+Results:
+% HERE COMES SOME TABLE OR SHIT FOR THE RESULTS OF THE 1. EXPERIMENT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+%newest one
+\subsection{Friction coefficient of the body}
+Here we will look at the experiment what we are going to use to measure the friction coefficient of the whole body.
+First we are going to hang it upside down and the have the body in a certain angle and release it.
+From the dampening of the oscillation we can determine the friction coefficient of the body
+\begin{equation}
+	\label{eq:Motion equation for the pendulum}
+	(m_{b}+m_{w})\ddot{\Theta_{b}}+C_{b}\dot{\Theta_{b}}+\frac{(m_{b}+m_{w})g\Theta_{b}}{l_{b}}=0
+\end{equation}
+From here we can get the friction coefficient for our system.
+\begin{equation}
+	\label{eq:motion equation for friction}
+	C_{b}=-\frac{(m_{b}+m_{w})\ddot{\Theta_{b}}}{\dot{\Theta_{b}}}-\frac{(m_{b}+m_{w})g\Theta_{b}}{\dot{\Theta_{b}}l_{b}}
+\end{equation}
+In this experiment we must record the time trace of the $\theta$ so we have the position and the oscillation of the body.
+From the graph we can use the fitting of least squres method to get the coefficient for the bodys friction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

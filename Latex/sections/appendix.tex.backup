@@ -1,0 +1,47 @@
+
+
+\section {Datasheets}\label{app:data}
+
+\pagebreak
+\subsection{DC motor}\label{app:motor}
+
+\begin{figure}[H]
+	\centering
+\includepdf[pages=1,templatesize={10cm}{10cm}]{apendix/15-262-EN.pdf}
+\end{figure}
+
+\pagebreak
+\subsection{Motor driver}\label{app:driver}
+
+\begin{figure}[H]
+	\centering
+	\includepdf[pages=1, templatesize={10cm}{10cm}]{apendix/15-376-377-378-EN.pdf}
+\end{figure}
+\pagebreak
+\begin{figure}[H]
+	\centering
+	\includepdf[pages=2, templatesize={10cm}{10cm}]{apendix/15-376-377-378-EN.pdf}
+\end{figure}
+\pagebreak
+\begin{figure}[H]
+	\centering
+	\includepdf[pages=3, templatesize={10cm}{10cm}]{apendix/15-376-377-378-EN.pdf}
+\end{figure}
+
+\pagebreak
+\subsection{Servo}\label{app:servo}
+
+
+
+\pagebreak
+\subsection{Matlab model data script}\label{app:matlabdata}
+
+\lstinputlisting[ title=model data script]{./matlab/data.m}
+
+
+\pagebreak
+\subsection{xxxx}\label{app:xxxx}
+
+
+
+

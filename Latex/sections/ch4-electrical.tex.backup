@@ -1,0 +1,15 @@
+\section{Electrical design}
+
+In previous sectrion we looked at what could be the possible solution for the mechanical part of the system.
+In the current section we are considering the electronical parts that should be used inside the device inhand.
+\begin{itemize}
+ \item Aluminium square plate with dimensions of 15x15 cm and holes inside for the reaction wheel mount and to keep the weight low as possible.
+ \item Reaction wheel made out of aluminium. Wheel itself is a circle with spokes and a hole in the middle to mount it on the brushless DC motor.
+ \item Tabletop mount what can be fixed to one of the corners of the prototype by bearings to have the least amount of friction as possible.
+\end{itemize}
+
+
+
+
+
+

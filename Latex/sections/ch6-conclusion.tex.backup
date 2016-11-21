@@ -1,0 +1,13 @@
+\section{Conclusion}
+
+In this paper we have presented a cube shaped inverted pendulum prototype for one of the sides of the cube.
+
+We have designed a possible solution for the cube shaped inverted pendulum control.
+The simulations what we have conducted during this project have proven that the control method used in the current designe works.
+For the control of the system we have implemented state space based control method.
+
+In order to make the cube jump up we modelled physical model for the jump up sequence.
+In this section of the project we have made sure that it is possible to make the cube lift off the surface where it is laying on one of its sides.
+The lift off is made possible by storing energy on the momentum wheel and then rapidly bringing it to stop.
+Due to the enargy transfer from the wheel to the body we can make the system jump on to its corner.
+We have concluded that the speed necessary for the lift off to the point where the cube starts balancing is relativly small compared to the maximum speed of the motor proposed for the system.

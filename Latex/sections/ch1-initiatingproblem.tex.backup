@@ -1,0 +1,11 @@
+\section{Initiating Problem}
+In this paper we focus on the development of a nonlinear controller for an unbalanced system.
+Our unbalanced system in this case is one side of a cube, what is moved by and reaction wheel.
+The problem with this system is that if it is set to it's balancing position the cube wants to get to a lower energy position.
+Lower energy position in this case is that the cube lies down on one side.
+Since we want it to keep upright we need to make a controller to hold it in the balancing position.
+
+Complexity of the device comes where we have to check the angle of the tilt at all time and then apply correct torque to the motor.
+Because the angle changes all the time thus we need to recalculate the torque after every reading aswell.
+
+

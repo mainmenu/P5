@@ -1,0 +1,25 @@
+\section{Build of the system}
+
+In order to to implement the controller, what we have been designing in the duration of this project we must build an actual prototype for the system.
+Problably the best way to do it is to take into consideration of the previously done projects.
+Since we have been studyng thoroughly the project made by the ETH students\cite{cubli12}.
+For the prototype we would be constructing only one side of the whole cube.
+
+Base of the prototype will be a square shaped aluminium plate, in what we would have hole in the middle to mount the motor with the reaction wheel.
+Reaction wheel it self would be a round wheel with three spoke.
+The ideal solution for the prototype is shown on the figure below.
+\begin{figure}[H]
+
+	
+	\centering
+ 	\includegraphics[width=1\textwidth]{images/mechsetup.jpg}
+	
+	~
+	\caption{Possible mechanical setup for the project} 
+ 	\label{fig:mech} 
+\end{figure}
+
+Mechanical pieces of the system:
+\begin{itemize}
+ \item Al
+\end{itemize}
