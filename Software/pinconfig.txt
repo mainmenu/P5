@@ -1,0 +1,13 @@
+Left motor is A
+Right motor is B
+Driver pins:
+A-1A=26
+A-1B=19
+B-1A=13
+B-1B=6
+FRONT US
+echo=4
+trig=17
+
+echoleft=27
+echoright=22
