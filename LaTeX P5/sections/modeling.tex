@@ -1,9 +1,159 @@
 \chapter{Modeling}\label{ch:modeling}
 
+
 In order to understand the behaviour of the system, a mathematical model followed by a simulation had to be done. 
 
+\section{DC motors dynamics model} 
 
-
+\begin{table}[h]
+\centering
+\begin{tabular}{cccll}
+\hline
+Parameter                   & Description                               & Nominal Value                                 &  &  \\ \hline
+\multicolumn{1}{|c|}{K}     & \multicolumn{1}{c|}{Motor constant}       & \multicolumn{1}{c|}{0.1838 V/(rad/s)  Nm/amp} &  &  \\ \cline{1-3}
+\multicolumn{1}{|c|}{R}     & \multicolumn{1}{c|}{Armature resistance}  & \multicolumn{1}{c|}{11.5 $\Omega$}            &  &  \\ \cline{1-3}
+\multicolumn{1}{|c|}{L}     & \multicolumn{1}{c|}{Armature inductance}  & \multicolumn{1}{c|}{0.1 H}                    &  &  \\ \cline{1-3}
+\multicolumn{1}{|c|}{$J_r$} & \multicolumn{1}{c|}{Rotor inertia}       & \multicolumn{1}{c|}{0}                        &  &  \\ \cline{1-3}
+\multicolumn{1}{|c|}{$b_r$} & \multicolumn{1}{c|}{Rotor damping}        & \multicolumn{1}{c|}{0.0221}                   &  &  \\ \cline{1-3}
+\multicolumn{1}{|c|}{$J_w$} & \multicolumn{1}{l|}{Load inertia} & \multicolumn{1}{c|}{2.8033e-5 $KgM^2$}        &  &  \\ \cline{1-3}
+\multicolumn{1}{|c|}{n}     & \multicolumn{1}{c|}{Gear ratio}           & \multicolumn{1}{c|}{1:48}                     &  &  \\ \cline{1-3}
+\multicolumn{1}{l}{}        & \multicolumn{1}{l}{}                      & \multicolumn{1}{l}{}                          &  &  \\ \hline
+\end{tabular}
+\caption{Motor parameters}
+\label{my-label}
+\end{table}
 
 \missingfigure{We need a figure right here!}
+
+This section describes the dynamic mathematical model of the DC motors, including moment of inertia, torque and friction. In a DC motor the produced electromagnetic torque($\boldsymbol{T_e}$) is linearly proportional to the armature current and the magnetic field. If we assume that the magnetic field is constant, the torque is only proportional to the armature current(\textbf{I}) and the torque constant($\boldsymbol{K_t}$) as evident in equation \ref{eq1}. \\
+
+\begin{equation} \label{eq1} 
+T_e = IK_t
+\end{equation}
+
+The back electromotive force voltage($E_b$) is proportional to the angular velocity($\omega$) of the shaft times the Back emf constant($K_b$).(Equation \ref{eq2})
+
+\begin{equation} \label{eq2}
+E_b = \omega K_b
+\end{equation}
+
+Because the two constants $K_t$ and $K_b$ are equal in SI units, in further equations and simulations they will be denoted only as a motor constant $K$.
+
+\begin{equation} \label{eq3}
+K_t = K_b = K
+\end{equation} 
+
+Furthermore, from figure \todo{reference to figure}, using Kirchhoff's voltage law, we can derive the equations governing the electrical part of the DC motor, where the applied voltage (\textbf{V}) is proportional to the voltage drop through the armature resistance(\textbf{R}) and inductance(\textbf{L}), and the back electromotive voltage($\boldsymbol{E_b}$). \ref{eq4}
+
+\begin{equation} \label{eq4}
+V = RI + L\frac{dI}{dt} + E_b
+\end{equation} 
+
+The mechanical part of the DC motor(mechanical part of figure \todo{reference to figure}) is derived from the equations, where the mechanical torque($\boldsymbol{T_m}$) is the difference between the electromagnetic torque($\boldsymbol{T_e}$) and the rotational losses ($\boldsymbol{T_b}$). \ref{eq5}
+
+\begin{equation} \label{eq5} 
+T_m = T_e - T_b
+\end{equation} 
+
+Using Newton's second law for rotational motion and substituting from equation\ref{eq1}, we can rewrite equation \ref{eq5} as:
+
+\begin{equation} \label{eq6}
+J\dot{\omega} = KI - b\omega
+\end{equation}
+
+Where \textbf{J} is the load's inertia and \textbf{b} is the viscous friction in the motor's bearings.
+Further substitution in equation \ref{eq4} with the derived back emf from \ref{eq2} results in:
+
+\begin{equation} \label{eq7}
+V = RI + L\frac{dI}{dt} + K\omega
+\end{equation}
+
+Equations \ref{eq6} and \ref{eq7} are the combined equations of motion for the DC motor.
+
+Applying the Laplace transform to the equations, we can derive the transfer function of the DC motor.
+
+\begin{align}  
+sJ\Omega(s) + b\Omega(s) = KI(s) \label{eq8}\\
+sLI(s) + RI(s) = V(s) - K\Omega(s) \nonumber
+\end{align}
+
+\begin{center}
+$\Downarrow$
+\end{center}
+
+\begin{align} 
+\frac{\Omega(s)(sJ + b)}{K} = I(s) \label{eq9} \\
+I(s)(sL + R) + K\Omega(s) = V(s)  \nonumber 
+\end{align}
+
+Substituting with \textbf{I(s)} in the second part of equation \ref{eq9}, and setting the angular velocity($\boldsymbol{\Omega(s)}$) as output and the voltage (\textbf{V(s)}) as input results in the transfer function for the DC motor.(\ref{eq10})
+
+\begin{equation} \label{eq10}
+\frac{\Omega(s)}{V(s)} = \frac{K}{(Js + b)(sL + R) + K^2}
+\end{equation}
+
+\subsection{Simulink Model} 
+
+In this subsection, the previously derived equations are represented in a block diagram using Matlab's Simulink environment. There are several possible ways to arrange the blocks governing the DC motor, thus in this paper a familiar approach is considered.
+
+\begin{table}[h]
+\centering
+\begin{tabular}{cccll}
+\hline
+Parameter                   & Description                               & Nominal Value                                 &  &  \\ \hline
+\multicolumn{1}{|c|}{K}     & \multicolumn{1}{c|}{Motor constant}       & \multicolumn{1}{c|}{0.1838 V/(rad/s)  Nm/amp} &  &  \\ \cline{1-3}
+\multicolumn{1}{|c|}{R}     & \multicolumn{1}{c|}{Armature resistance}  & \multicolumn{1}{c|}{11.5 $\Omega$}            &  &  \\ \cline{1-3}
+\multicolumn{1}{|c|}{L}     & \multicolumn{1}{c|}{Armature inductance}  & \multicolumn{1}{c|}{0.1 H}                    &  &  \\ \cline{1-3}
+\multicolumn{1}{|c|}{$J_r$} & \multicolumn{1}{c|}{Rotor inertia}       & \multicolumn{1}{c|}{0}                        &  &  \\ \cline{1-3}
+\multicolumn{1}{|c|}{$b_r$} & \multicolumn{1}{c|}{Rotor damping}        & \multicolumn{1}{c|}{0.0221}                   &  &  \\ \cline{1-3}
+\multicolumn{1}{|c|}{$J_w$} & \multicolumn{1}{c|}{Load inertia} & \multicolumn{1}{c|}{2.8033e-5 $KgM^2$}        &  &  \\ \cline{1-3}
+\multicolumn{1}{|c|}{n}     & \multicolumn{1}{c|}{Gear ratio}           & \multicolumn{1}{c|}{1:48}                     &  &  \\ \cline{1-3}
+\multicolumn{1}{l}{}        & \multicolumn{1}{l}{}                      & \multicolumn{1}{l}{}                          &  &  \\ \hline
+\end{tabular}
+\caption{Motor parameters}
+\label{my-label}
+\end{table}
+
+As evident from equation \ref{eq10}, the voltage is the input of the system, while the angular velocity is the output. In order to accurately apply the equations, while attaining the desired result, a modification of equations \ref{eq6} and \ref{eq7} was made.(\ref{eq11})
+
+\begin{align}
+\frac{dI}{dt} = \frac{1}{L}(V - RI - K\omega)\label{eq11} \\
+\frac{d\omega}{dt} = \frac{1}{J}(KI - b\omega) \nonumber
+\end{align}
+
+The block diagram representation in figure \ref{fig::dcmfigure} has the integrals of the rotational acceleration and the rate of change of the armature current considered as outputs based on equations \ref{eq11}.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=1.1\textwidth]{dc_motorD}
+\caption{DC Motor Block Diagram}
+\label{fig::dcmfigure}
+\end{figure}
+
+The inclusion of the gear ration (\textbf{n}) and the radius of the wheel (\textbf{r}) products to the angular velocity in the end of the block diagram, results in model scaling for the linear velocity (\textbf{v}) of the wheel. (\ref{eq12})
+
+\begin{equation} \label{eq12}
+v = r\omega
+\end{equation}
+
+Performing integration on the derived linear velocity results in obtaining the linear displacement of the wheels, later to be used with the kinematics model. 
+
+To summarise, the goal was to relate the voltage to the speed. The input of the block diagram is the voltage of the motor (\textbf{V}) while the outputs are the linear speed caused by wheel rotation and the linear displacement, obtained from integrating the speed. The blocks comprising the upper and lower part of the block diagram, directly correspond to equation \ref{eq11} (upper part correspond to the electrical part of the motor; lower part correspond to the mechanical part of the motor).
+
+Furthermore, as this paper is concerned with the development of a differential drive robot, the block diagram in figure \ref{fig::dcmfigure} is solely a subsystem of the complete kinematics model. That is, two DC motor subsystems are required in order to describe the complete motor/wheel dynamics. 
+
+\section{Kinematics Model of Differential Drive}
+
+Differential drive is a common mechanism in mobile robotics. It consists of two wheels on a common axis, driven by two motor, where each wheel can be independently driven in either forward or backward direction. That is, by varying the velocities of each wheel, different  trajectories could be achieved. Importantly, the rotation the robot performs is based on a point common to the right and left wheel axis, denoted as Instantaneous Center of Curvature(\textbf{ICC}). The kinematic representation can be observed in figure \ref{fig::diff_drive_over}.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width = 0.5\textwidth]{Kinematics_char}
+\caption{Differential drive overview}
+\label{fig::diff_drive_over}
+\end{figure}
+
+
+
+
 
