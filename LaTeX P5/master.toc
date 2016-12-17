@@ -32,6 +32,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.2}Kinematics Model of Differential Drive}{11}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Conclusion}{13}{chapter.4}
+\contentsline {subsection}{\numberline {3.2.1}Kinematics in simulink}{14}{subsection.3.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Appendix A name}{15}{appendix.A}
+\contentsline {chapter}{\numberline {4}Conclusion}{17}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Appendix A name}{19}{appendix.A}
