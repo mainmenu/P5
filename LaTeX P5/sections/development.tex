@@ -94,3 +94,39 @@ while True:
 As you can see from the code above we made sure that every reading takes exactly 0.05 seconds.
 This will help us make every cycle evenly long and we can predict the total time that the program runs the whole cycle.
 After applying the filter we saw that the readings became alot more percise and consistent.
+Therefore the time for the sensor reading loop becomes 3*0,05s=0,15s.
+
+\section{DC motors}
+
+For testing the dc motors we drove the motors in forward gear and in backward gear through the driver we are useing.
+Below you can see the script we used to conduct the testing of the motors.
+
+\begin{lstlisting}
+GPIO.setmode(GPIO.BCM)
+GPIO.setup(StepPinForward, GPIO.OUT)
+GPIO.setup(StepPinBackward, GPIO.OUT)
+
+def forward(x):
+    GPIO.output(StepPinForward, GPIO.HIGH)
+    print "forwarding running  motor "
+    time.sleep(x)
+    GPIO.output(StepPinForward, GPIO.LOW)
+
+def reverse(x):
+    GPIO.output(StepPinBackward, GPIO.HIGH)
+    print "backwarding running motor"
+    time.sleep(x)
+    GPIO.output(StepPinBackward, GPIO.LOW)
+
+print "forward motor "
+forward(5)
+print "reverse motor"
+reverse(5)
+
+print "Stopping motor"
+GPIO.cleanup()
+
+\end{lstlisting}
+
+As you can see from the code it runs one of the two motors first forward for 5 seconds and then backwards for 5 seconds.
+For the second motor we just changed the pin numbers(StepPinForward and StepPinBackward).
