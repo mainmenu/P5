@@ -142,7 +142,7 @@ To summarise, the goal was to relate the voltage to the speed. The input of the 
 
 Furthermore, as this paper is concerned with the development of a differential drive robot, the block diagram in figure \ref{fig::dcmfigure} is solely a subsystem of the complete kinematics model. That is, two DC motor subsystems are required in order to describe the complete motor/wheel dynamics. 
 
-\section{Kinematics Model of Differential Drive}
+\section{Kinematics Model of Differential Drive} \label{kin_model} 
 
 Differential drive is a common mechanism in mobile robotics. It consists of two wheels on a common axis, driven by two motor, where each wheel can be independently driven in either forward or backward direction. That is, by varying the velocities of each wheel, different  trajectories could be achieved. Importantly, the rotation the robot performs is based on a point common to the right and left wheel axis, denoted as Instantaneous Center of Curvature(\textbf{ICC}). The kinematic representation can be observed in figure \ref{fig::diff_drive_over} .
 
@@ -180,7 +180,7 @@ D = \frac{v}{W} \label{eq16} \\
 
 Analysis of the above equation leads to the consideration of three cases where certain behaviour is to be expected.
 
-\begin{itemize}
+\begin{itemize} \label{list_v}
 
 \item $\boldsymbol{v_r = v_l}$ \\ In this case scenario, both wheels have the same speed. The robot's speed from equation \ref{eq13} is simply equal to the individual speed of each of wheel. On the other hand, the angular speed from equation \ref{eq14} becomes 0, and the turning radius infinite. The robot is expected to perform straight linear motion.
 
@@ -279,8 +279,94 @@ In figure \ref{fig::pos_sub} the inputs are the the average speed and the orient
 \label{fig::pos_model}
 \end{figure} 
 
-The subsystem from figure \ref{fig::pos_sub} is composed of blocks arranged to reflect equation \ref{eq20}. The outputs $\dot{x}$ and $\dot{y}$ are further integrated to graph the trajectory of the robot. 
+The subsystem from figure \ref{fig::pos_sub} is composed of blocks arranged to reflect equation \ref{eq20}. The outputs $\dot{x}$ and $\dot{y}$ are further integrated to graph the trajectory of the robot. \\
 
 \section{Complete model}
 
-In this section the complete model is displayed.
+In this section the complete system model is derived. It includes motor dynamics and robot kinematics. That is, the behaviour of the robot is analysed and compared with the expected performance.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width = 0.8\textwidth]{comp_model_simulink}
+\caption{Complete system model}
+\label{fig::com_model}
+\end{figure} 
+
+In figure \ref{fig::com_model}, the complete system model for a differential drive robot could be observed. As previously mentioned, a differential drive consist of two DC motors, thus to accurately model the relations, two motor subsystem as described in section \ref{dc_model}, are used. 
+
+\subsection{DC motors model analysis} 
+
+The two DC motors are in the top left corner of the model in figure \ref{fig::com_model}. A step function block is used to simulate the voltage applied to the motor, alongside a saturation block that limits the model from  computing with values greater than the maximum allowed voltage in the physical motor. 
+
+The motor model proposed in section \ref{dc_model} is constructed using only linear blocks, thus the open-loop response could be observed by providing a unit step input and observing the response through a scope block. 
+
+\begin{figure}[h]
+\centering
+\includegraphics[width = 0.7\textwidth]{motor_openl_step}
+\caption{Step response of DC motor}
+\label{fig::dc_step}
+\end{figure} 
+
+Figure \ref{fig::dc_step} is consistent with the expected step response of a DC motor. When 1 Volts is applied as a step input, the motor achieves maximum speed of 0.06 cm/s (after conversion to linear speed) However to further understand the results, linear analysis on the subsystem has been performed.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width = 0.7\textwidth]{Pzmap_dc}
+\caption{Pole-Zero map of DC motor}
+\label{fig::dc_pz}
+\end{figure} 
+
+From figure \ref{fig::dc_pz}, it is clear that the open-loop subsystem has two real poles in the left hand plane. That is ,no oscillations or overshoot present as it could be seen in the step response. Furthermore, the slower of the two poles will dominate the dynamics of the system, prompting the system to behave as it was first-order. 
+
+Obviously, both motors' models behave the same while applying the same step input. Nevertheless, it is important to understand that in real life this may not be the case, as the constants used in the model may not reflect accurately both real-life counterparts.
+
+\subsection{Kinematics model analysis} 
+
+We discussed in subsection \ref{kin_model} how small fluctuation in the speed of each motor, will results in a change of the trajectory of the whole robot. It is important to verify that the cases laid in the above mentioned subsection hold true.
+
+\newpage
+
+\begin{figure}[h]
+\centering
+\includegraphics[width = 0.7\textwidth]{x_y_equalV}
+\caption{XY-graph for equal velocities}
+\label{fig::v_l=v_r}
+\end{figure} 
+
+In figure \ref{fig::v_l=v_r}, when both wheel velocities match ($\boldsymbol{v_r = v_l}$), the trajectory the robot partakes is a straight line. 
+
+\begin{figure}[h]
+\centering
+\includegraphics[width = 0.7\textwidth]{AS_equalV}
+\caption{Turning speed for equal velocities}
+\label{fig::Wv_l=v_r}
+\end{figure} 
+
+As to be expected, the turning speed in figure \ref{fig::Wv_l=v_r} remains zero for as long as the velocities of each wheel match.
+
+The other case scenario is when one of the wheels has zero velocity (the other wheel's velocity can not be equal to zero).
+
+\newpage
+
+\begin{figure}[h]
+\centering
+\includegraphics[width = 0.7\textwidth]{x_y_zeroV}
+\caption{XY-graph for zero velocity left wheel}
+\label{fig::ZeroV}
+\end{figure} 
+
+The expected behaviour is rotation where the ICC is positioned at the zero velocity wheel. Furthermore, the turning speed should be constant, while the turning radius equal to $\frac{l}{2}$.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width = 0.6\textwidth]{turning_speed_zeroV}
+\caption{Turning speed for zero velocity left wheel}
+\label{fig::TzeroV}
+\end{figure}
+
+\begin{figure}[b]
+\centering
+\includegraphics[width = 0.6\textwidth]{turning_speed_zeroV}
+\caption{Turning radius for zero velocity left wheel}
+\label{fig::RzeroV}
+\end{figure}
