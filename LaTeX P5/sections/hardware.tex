@@ -27,6 +27,7 @@ At first we used the Raspberry Pi 2 model B but in concideration of the power su
 \label{fig::raspizero}
 \end{figure}
 
+
 We chose the Rasperry Pi Zero over the Raspberry Pi 2B because of the lesser power consumption and the size.
 Performance of the two computers are similar. 
 Zero has less RAM but in our project it does not have a significant impact.
@@ -137,4 +138,38 @@ For the monitoring of the device and connectivity we have used a Edimax EW-7811U
 \caption{Edimax EW-7811Un Wi-Fi adapter}
 \label{fig::edimax}
 \end{figure}
+
+\section{Assambly}
+
+In this section we will be looking more closely what has been connected to what and how.
+From the figure below we can see the layout of the whole system.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width = 0.5\textwidth]{P51_schem}
+\caption{Schematics of the device}
+\label{fig::schematics}
+\end{figure}
+
+In the middele you can see the Raspberry Pi.
+Since the software used to make this schematic did not have the Raspberry Pi Zero layout we used model 2 instead.
+Regarding our project id does not make a difference, since the pins are the same as Zero.
+
+On the right side of the system you can see three ultrasonic sensors.
+The ultrasonic sensors are connected to the RP Pi.
+The Vcc and GND pins all go to the Raspberry so that the power for the sensors is taken from the Raspberry itself.
+The triger pins all go to the same Raspberry pin.
+That means that when you trigger one of the sensors all of them will emit sonic impulse.
+The trigers are all on the same pin to preserv more pins on the Raspberry, it does not matter if they are on one or seperate pins.
+The echo pins of each of the sensors go into seperate ports on the Raspberry, each of them has a voltage divider connected to the GND as well.
+
+In the left bottom you can see the driver with the motors and a seperate battery pack.
+The battery pack is connected to the driver to give power to the motors and the driver itself aswell.
+Driver is connected to the Raspberry by 6 pins.
+Four of the pins are for the directions of the both motors.
+Two of the pins what are the enable pins are used for controlling the speed of the motors by PWM.
+The motors are connecter directly to the driver by two wires.
+In the top left you can see the two encoders what are used for monitoring the speed of the wheels.
+
+For the Raspberry we have a external power source what is not pictured on the figure.
 
