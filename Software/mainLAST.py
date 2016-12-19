@@ -2,9 +2,11 @@ import sys
 import time
 import RPi.GPIO as GPIO
 
+
+
 #PIN numbers
-LetfPWM=
-RightPWM=
+LetfPWM=16
+RightPWM=20
 StepPinForward1=26
 StepPinBackward1=19
 StepPinForward2=13
@@ -13,7 +15,6 @@ ECHOF=4
 ECHOL=27
 ECHOR=22
 TRIG=17
-
 
 #Values for reading the sesnsors
 SPEED_OF_SOUND = 17150
@@ -41,6 +42,12 @@ GPIO.setup(ECHOF, GPIO.IN)
 GPIO.setup(ECHOL, GPIO.IN)
 GPIO.setup(ECHOR, GPIO.IN)
 GPIO.setup(TRIG, GPIO.OUT)
+GPIO.setup(LetfPWM, GPIO.OUT)
+GPIO.setup(RightPWM, GPIO.OUT)
+
+#PWM channels and frequency
+PWML=GPIO.PWM(16, 0.5)
+PWMR=GPIO.PWM(20, 0.5)
 
 def readsensor(PIN):
 	for x in range(0, 2):
@@ -73,47 +80,52 @@ def readsensor(PIN):
 def stop():
 	GPIO.output(StepPinForward1, GPIO.LOW)
 	GPIO.output(StepPinForward2, GPIO.LOW)
+	GPIO.output(StepPinBackward1, GPIO.LOW)
+	GPIO.output(StepPinBackward2, GPIO.LOW)
 
 
-def reverse(reversetime):
+def reverse(reversetime,SPEED):
 	print "FORWARD"
 	GPIO.output(StepPinForward1, GPIO.HIGH)
 	GPIO.output(StepPinForward2, GPIO.HIGH)
+	PWML.start(SPEED)
+	PWMR.start(SPEED)
 	sleep(reversetime)
 	GPIO.output(StepPinForward1, GPIO.LOW)
 	GPIO.output(StepPinForward2, GPIO.LOW)
 
-def forward():
+def forward(forwardtime,SPEED):
 	print "REVERSE"
 	GPIO.output(StepPinBackward1, GPIO.HIGH)
 	GPIO.output(StepPinBackward2, GPIO.HIGH)
-	time.sleep(1)
+	PWML.start(SPEED)
+	PWMR.start(SPEED)
+	time.sleep(forwardtime)
 	GPIO.output(StepPinBackward1, GPIO.LOW)
 	GPIO.output(StepPinBackward2, GPIO.LOW)
 
-def right():
+def right(turningtime,SPEED):
 	print "RIGHT"
 	GPIO.output(StepPinBackward1, GPIO.HIGH)
 	GPIO.output(StepPinForward2, GPIO.HIGH)
+	PWML.start(SPEED)
+	PWMR.start(SPEED)
 	sleep(turningtime)
 	GPIO.output(StepPinBackward1, GPIO.LOW)
 	GPIO.output(StepPinForward2, GPIO.LOW)
 
-def left():
+def left(turningtime,SPEED):
 	print "LEFT"
 	GPIO.output(StepPinForward1, GPIO.HIGH)
 	GPIO.output(StepPinBackward2, GPIO.HIGH)
+	PWML.start(SPEED)
+	PWMR.start(SPEED)
 	sleep(turningtime)
 	GPIO.output(StepPinForward1, GPIO.LOW)
 	GPIO.output(StepPinBackward2, GPIO.LOW)
 
 while True:
-#	readsensor(ECHOF)
-#	readsensor(ECHOR)
-#	readsensor(ECHOL)
-#	forward()
-	GPIO.cleanup()
-
+	readsensor(ECHOF)
 
 	if sensorF_data>200:
 		forward(MAXSPEED)
@@ -128,14 +140,18 @@ while True:
 		stop()
 		readsensor(ECHOR)
 		readsensor(ECHOL)
-		if sensorR_data<15 and sensorL_data<15:
-			reverse(1)
-			break
+
+		while sensorR_data<15 and sensorL_data<15:	
+			reverse(MINSPEED)
+			readsensor(ECHOR)
+			readsensor(ECHOL)
+			
 		if sensorR_data>sensorL_data== True:
-			right()
+			right(1,MINSPEED)
 			break
+			
 		if sensorL_data>sensorR_data==True:
-			left()
+			left(1,MINSPEED)
 			break
 
 
