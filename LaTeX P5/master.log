@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.11.23)  17 DEC 2016 19:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.11.23)  20 DEC 2016 08:38
 entering extended mode
 **./master.tex
 (master.tex
@@ -1269,10 +1269,57 @@ Package hyperref Info: Option `plainpages' set `false' on input line 169.
 Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 169.
 
 Package hyperref Info: Option `colorlinks' set `false' on input line 169.
-) (setup/hyphenations.tex) (setup/macros.tex
-\c@currexactr=\count327
-\c@endexactr=\count328
-\c@exa=\count329
+(C:\Users\Philip\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
+\lst@mode=\count327
+\lst@gtempboxa=\box40
+\lst@token=\toks58
+\lst@length=\count328
+\lst@currlwidth=\dimen268
+\lst@column=\count329
+\lst@pos=\count330
+\lst@lostspace=\dimen269
+\lst@width=\dimen270
+\lst@newlines=\count331
+\lst@lineno=\count332
+\lst@maxwidth=\dimen271
+
+(C:\Users\Philip\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count333
+\lst@skipnumbers=\count334
+\lst@framebox=\box41
+)
+(C:\Users\Philip\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(C:\Users\Philip\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\subcaption.sty
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+\c@subfigure=\count335
+\c@subtable=\count336
+))
+(C:\Users\Philip\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pdfpages.sty
+Package: pdfpages 2015/09/18 v0.5d Insert pages of external PDF documents (AM)
+
+(C:\Users\Philip\AppData\Roaming\MiKTeX\2.9\tex\latex\eso-pic\eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+)
+\AM@pagewidth=\dimen272
+\AM@pageheight=\dimen273
+
+(C:\Users\Philip\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pppdftex.def
+File: pppdftex.def 2015/09/18 v0.5d Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box42
+\AM@toc@title=\toks59
+\c@AM@survey=\count337
+\AM@templatesizebox=\box43
+)
+(setup/hyphenations.tex) (setup/macros.tex
+\c@currexactr=\count338
+\c@endexactr=\count339
+\c@exa=\count340
 )
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
@@ -1284,9 +1331,16 @@ File: english.lbx 2015/10/21 v3.1 biblatex localization (PK/JW/AB)
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count330
-\@quotereset=\count331
-(master.aux)
+\@quotelevel=\count341
+\@quotereset=\count342
+(master.aux
+
+LaTeX Warning: Label `fig::driver2' multiply defined.
+
+
+LaTeX Warning: Label `fig:approxV' multiply defined.
+
+)
 \openout1 = `master.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
@@ -1309,17 +1363,17 @@ File: t1pplx.fd 2004/09/06 font definitions for T1/pplx.
 )
 (C:\Users\Philip\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count332
-\scratchdimen=\dimen268
-\scratchbox=\box40
-\nofMPsegments=\count333
-\nofMParguments=\count334
-\everyMPshowfont=\toks58
-\MPscratchCnt=\count335
-\MPscratchDim=\dimen269
-\MPnumerator=\count336
-\makeMPintoPDFobject=\count337
-\everyMPtoPDFconversion=\toks59
+\scratchcounter=\count343
+\scratchdimen=\dimen274
+\scratchbox=\box44
+\nofMPsegments=\count344
+\nofMParguments=\count345
+\everyMPshowfont=\toks60
+\MPscratchCnt=\count346
+\MPscratchDim=\dimen275
+\MPnumerator=\count347
+\makeMPintoPDFobject=\count348
+\everyMPtoPDFconversion=\toks61
 ) (D:\Software\Miktex\tex\latex\oberdiek\epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1335,6 +1389,7 @@ G,.JBIG2,.JB2,.eps]
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 *geometry* driver: auto-detecting
@@ -1381,15 +1436,15 @@ Package biblatex Warning: Data encoding is 'utf8'.
 \openout3 = `master-blx.bib'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'master.bbl' not found.
-No file master.bbl.
+Package biblatex Info: ... file 'master.bbl' found.
+(master.bbl)
 Package biblatex Info: Reference section=0 on input line 21.
 Package biblatex Info: Reference segment=0 on input line 21.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
 (lastpage)             ! on input line 21.
-ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box41
+ ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box45
 Package hyperref Info: Link coloring OFF on input line 21.
 
 (D:\Software\Miktex\tex\latex\hyperref\nameref.sty
@@ -1398,7 +1453,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (D:\Software\Miktex\tex\generic\oberdiek\gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count338
+\c@section@level=\count349
 )
 LaTeX Info: Redefining \ref on input line 21.
 LaTeX Info: Redefining \pageref on input line 21.
@@ -1408,7 +1463,15 @@ LaTeX Info: Redefining \nameref on input line 21.
 \@outlinefile=\write5
 \openout5 = `master.out'.
 
- (sections/frontpage.tex
+\c@lstlisting=\count350
+ (D:\Software\Miktex\tex\latex\oberdiek\pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(D:\Software\Miktex\tex\latex\graphics\lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+) (sections/frontpage.tex
 LaTeX Font Info:    Try loading font information for OT1+pplx on input line 21.
 
 
@@ -1470,35 +1533,40 @@ LaTeX Font Warning: Font shape `OMS/pplx/m/n' undefined
 \titlepageleftcolumnwidth=\skip82
 \titlepagerightcolumnwidth=\skip83
 
-<figures/aau_logo_en.pdf, id=82, 115.43124pt x 77.28876pt>
+<figures/aau_logo_en.pdf, id=174, 115.43124pt x 77.28876pt>
 File: figures/aau_logo_en.pdf Graphic file (type pdf)
 
 <use figures/aau_logo_en.pdf>
-Package pdftex.def Info: figures/aau_logo_en.pdf used on input line 31.
+Package pdftex.def Info: figures/aau_logo_en.pdf used on input line 34.
 (pdftex.def)             Requested size: 194.59193pt x 130.30179pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
 
  []
 
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 31.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 34.
 (D:\Software\Miktex\tex\latex\base\t1cmss.fd
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 31.
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 34.
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
 
  []
 
 
-Overfull \hbox (3.18648pt too wide) in paragraph at lines 31--31
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 34--34
+\T1/pplx/m/n/10.95 de-vel-op-ment pro-cess in-cludes ba-sic
+ []
+
+
+Overfull \hbox (3.18648pt too wide) in paragraph at lines 34--34
 [] 
  []
 
@@ -1511,47 +1579,13 @@ Overfull \hbox (3.18648pt too wide) in paragraph at lines 31--31
 ]
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <20.74> not available
 (Font)              Font shape `T1/pplx/b/n' tried instead on input line 31.
- (master.toc)
+ (master.toc [5
+
+
+])
 \tf@toc=\write6
 \openout6 = `master.toc'.
 
- [5
-
-
-] [6
-
-
-] (master.tdo)
-\tf@tdo=\write7
-\openout7 = `master.tdo'.
-
-
-(sections/preface.tex [7] [8
-
-
-]) [9] [10
-
-
-] (sections/introduction.tex
-Chapter 1.
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 5.
-[1
-
-
-]
-LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 30.
-Package hyperref Info: bookmark level for unknown exa defaults to 0 on input li
-ne 32.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 38.
- (D:\Software\Miktex\tex\latex\base\t1cmtt.fd
-File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-Overfull \hbox (1.555pt too wide) in paragraph at lines 41--41
- |[]\T1/pplx/b/n/14.4 How Does Sec-tions, Sub-sec-tions, and Sub-sec-tions Look
-?| 
- []
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1559,10 +1593,36 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+[6] (master.tdo)
+\tf@tdo=\write7
+\openout7 = `master.tdo'.
+
+ (sections/preface.tex [7
+
+
+] [8
+
+
+]) [9] [10
+
+
+]
+(sections/introduction.tex
+Chapter 1.
+[1
+
+
+]
+LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 30.
+) (sections/hardware.tex
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
 [2]
-LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <12> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 43.
-) (sections/ch2name.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -1574,39 +1634,132 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 Chapter 2.
+<figures/Raspberry-Pi-2.png, id=287, 752.8125pt x 542.025pt>
+File: figures/Raspberry-Pi-2.png Graphic file (type png)
 
-LaTeX Warning: Citation 'Madsen2010' on page 5 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Oetiker2010' on page 5 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'Mittelbach2005' on page 5 undefined on input line 2.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-) (sections/modeling.tex [5] [6
-
-
-]
-Chapter 3.
+<use figures/Raspberry-Pi-2.png>
+Package pdftex.def Info: figures/Raspberry-Pi-2.png used on input line 13.
+(pdftex.def)             Requested size: 160.47108pt x 115.54062pt.
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <9> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 22.
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 14.
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
+<figures/raspberry_pi_zero_1.jpg, id=288, 963.6pt x 662.475pt>
+File: figures/raspberry_pi_zero_1.jpg Graphic file (type jpg)
+
+<use figures/raspberry_pi_zero_1.jpg>
+Package pdftex.def Info: figures/raspberry_pi_zero_1.jpg used on input line 20.
+
+(pdftex.def)             Requested size: 160.47108pt x 110.31451pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5 <./figures/Raspberry-Pi-2.png>]
+<figures/hc-sr04.jpg, id=295, 1026.83624pt x 848.16875pt>
+File: figures/hc-sr04.jpg Graphic file (type jpg)
+
+<use figures/hc-sr04.jpg>
+Package pdftex.def Info: figures/hc-sr04.jpg used on input line 45.
+(pdftex.def)             Requested size: 160.47108pt x 132.53897pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[6 <./figures/raspberry_pi_zero_1.jpg> <./figures/hc-sr04.jpg>]
+<figures/chassie.jpg, id=303, 501.875pt x 376.40625pt>
+File: figures/chassie.jpg Graphic file (type jpg)
+
+<use figures/chassie.jpg>
+Package pdftex.def Info: figures/chassie.jpg used on input line 56.
+(pdftex.def)             Requested size: 160.47108pt x 120.35481pt.
+
+Overfull \hbox (29.18246pt too wide) in paragraph at lines 63--75
+\T1/pplx/m/n/10.95 rate:48:1 RPM (With tire):100,190,240 Tire Di-am-e-ter:66mm 
+Car Speed(M/minute):20,39,48 
+ []
+
+<figures/driver2.jpg, id=304, 451.6875pt x 451.6875pt>
+File: figures/driver2.jpg Graphic file (type jpg)
+
+<use figures/driver2.jpg>
+Package pdftex.def Info: figures/driver2.jpg used on input line 92.
+(pdftex.def)             Requested size: 160.47108pt x 160.4708pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/irspeed.jpg, id=306, 451.6875pt x 451.6875pt>
+File: figures/irspeed.jpg Graphic file (type jpg)
+
+<use figures/irspeed.jpg>
+Package pdftex.def Info: figures/irspeed.jpg used on input line 114.
+(pdftex.def)             Requested size: 160.47108pt x 160.4708pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[7 <./figures/chassie.jpg>]
+<figures/edimax.jpg, id=313, 1505.625pt x 1259.70625pt>
+File: figures/edimax.jpg Graphic file (type jpg)
+
+<use figures/edimax.jpg>
+Package pdftex.def Info: figures/edimax.jpg used on input line 137.
+(pdftex.def)             Requested size: 160.47108pt x 134.24327pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[8 <./figures/driver2.jpg> <./figures/irspeed.jpg>]
+<figures/P51_schem.jpg, id=322, 640.794pt x 431.211pt>
+File: figures/P51_schem.jpg Graphic file (type jpg)
+
+<use figures/P51_schem.jpg>
+Package pdftex.def Info: figures/P51_schem.jpg used on input line 148.
+(pdftex.def)             Requested size: 401.18387pt x 269.97337pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[9 <./figures/edimax.jpg>]) (sections/modeling.tex
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[10 <./figures/P51_schem.jpg>]
+Chapter 3.
+<figures/Motor_curcuit.png, id=334, 927.465pt x 290.08376pt>
+File: figures/Motor_curcuit.png Graphic file (type png)
+
+<use figures/Motor_curcuit.png>
+Package pdftex.def Info: figures/Motor_curcuit.png used on input line 26.
+(pdftex.def)             Requested size: 280.82747pt x 87.8358pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
 
+[11
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
- []
-
-[7]
-Overfull \hbox (9.6121pt too wide) in paragraph at lines 34--35
+ <./figures/Motor_curcuit.png>]
+Overfull \hbox (9.6121pt too wide) in paragraph at lines 37--38
 []\T1/pplx/m/n/10.95 The back elec-tro-mo-tive force voltage($\OML/zplm/m/it/10
 .95 E[]$\T1/pplx/m/n/10.95 ) is pro-por-tional to the an-gu-lar velocity($\OML/
 zplm/m/it/10.95 !$\T1/pplx/m/n/10.95 )
@@ -1618,36 +1771,42 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[8]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[9] <figures/dc_motorD.png, id=247, 1086.30844pt x 487.8225pt>
+[12]
+LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <12> not available
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 98.
+ <figures/dc_motorD.png, id=380, 1086.30844pt x 487.8225pt>
 File: figures/dc_motorD.png Graphic file (type png)
 
 <use figures/dc_motorD.png>
-Package pdftex.def Info: figures/dc_motorD.png used on input line 128.
+Package pdftex.def Info: figures/dc_motorD.png used on input line 130.
 (pdftex.def)             Requested size: 441.3047pt x 198.1774pt.
 
-Overfull \hbox (40.12083pt too wide) in paragraph at lines 128--129
+Overfull \hbox (40.12083pt too wide) in paragraph at lines 130--131
  [][] 
  []
 
 
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[10 <./figures/dc_motorD.png>]
-<figures/Kinematics_char.png, id=258, 310.15875pt x 330.23375pt>
+[13]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[14 <./figures/dc_motorD.png>]
+<figures/Kinematics_char.png, id=401, 310.15875pt x 330.23375pt>
 File: figures/Kinematics_char.png Graphic file (type png)
 
 <use figures/Kinematics_char.png>
-Package pdftex.def Info: figures/Kinematics_char.png used on input line 151.
+Package pdftex.def Info: figures/Kinematics_char.png used on input line 153.
 (pdftex.def)             Requested size: 200.59193pt x 213.57608pt.
 
 
@@ -1656,12 +1815,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[11 <./figures/Kinematics_char.png>]
-<figures/Orientation_xy.png, id=273, 427.5975pt x 374.90062pt>
+[15 <./figures/Kinematics_char.png>]
+<figures/Orientation_xy.png, id=421, 427.5975pt x 374.90062pt>
 File: figures/Orientation_xy.png Graphic file (type png)
 
 <use figures/Orientation_xy.png>
-Package pdftex.def Info: figures/Orientation_xy.png used on input line 205.
+Package pdftex.def Info: figures/Orientation_xy.png used on input line 207.
 (pdftex.def)             Requested size: 160.47108pt x 140.69035pt.
 
 
@@ -1673,31 +1832,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[12]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[13 <./figures/Orientation_xy.png>]
-<figures/diff_drive_kin_simulink.jpg, id=298, 782.17218pt x 633.11531pt>
+[16] <figures/diff_drive_kin_simulink.jpg, id=440, 782.17218pt x 633.11531pt>
 File: figures/diff_drive_kin_simulink.jpg Graphic file (type jpg)
 
 <use figures/diff_drive_kin_simulink.jpg>
 Package pdftex.def Info: figures/diff_drive_kin_simulink.jpg used on input line
- 259.
+ 244.
 (pdftex.def)             Requested size: 320.94832pt x 259.78181pt.
-
-
-LaTeX Warning: Reference `eq16' on page 14 undefined on input line 264.
-
-<figures/kin_pos_subsystem.jpg, id=300, 817.55438pt x 387.69844pt>
-File: figures/kin_pos_subsystem.jpg Graphic file (type jpg)
-
-<use figures/kin_pos_subsystem.jpg>
-Package pdftex.def Info: figures/kin_pos_subsystem.jpg used on input line 268.
-(pdftex.def)             Requested size: 320.94832pt x 152.20154pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1708,46 +1849,1267 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[14 <./figures/diff_drive_kin_simulink.jpg>]
-<figures/kin_model_pos.jpg, id=309, 1155.56718pt x 627.09282pt>
+[17 <./figures/Orientation_xy.png>]
+<figures/kin_pos_subsystem.jpg, id=451, 817.55438pt x 387.69844pt>
+File: figures/kin_pos_subsystem.jpg Graphic file (type jpg)
+
+<use figures/kin_pos_subsystem.jpg>
+Package pdftex.def Info: figures/kin_pos_subsystem.jpg used on input line 253.
+(pdftex.def)             Requested size: 240.71277pt x 114.14523pt.
+
+<figures/kin_model_pos.jpg, id=454, 1155.56718pt x 627.09282pt>
 File: figures/kin_model_pos.jpg Graphic file (type jpg)
 
 <use figures/kin_model_pos.jpg>
-Package pdftex.def Info: figures/kin_model_pos.jpg used on input line 277.
+Package pdftex.def Info: figures/kin_model_pos.jpg used on input line 262.
 (pdftex.def)             Requested size: 320.94832pt x 174.16862pt.
-) (sections/conclusion.tex
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[15 <./figures/kin_pos_subsystem.jpg> <./figures/kin_model_pos.jpg>] [16
+[18 <./figures/diff_drive_kin_simulink.jpg> <./figures/kin_pos_subsystem.jpg>]
+<figures/comp_model_simulink.jpg, id=463, 1390.44469pt x 637.63219pt>
+File: figures/comp_model_simulink.jpg Graphic file (type jpg)
+
+<use figures/comp_model_simulink.jpg>
+Package pdftex.def Info: figures/comp_model_simulink.jpg used on input line 275
+.
+(pdftex.def)             Requested size: 320.94832pt x 147.1777pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[19 <./figures/kin_model_pos.jpg> <./figures/comp_model_simulink.jpg>]
+<figures/motor_openl_step.jpg, id=473, 1434.10782pt x 705.38531pt>
+File: figures/motor_openl_step.jpg Graphic file (type jpg)
+
+<use figures/motor_openl_step.jpg>
+Package pdftex.def Info: figures/motor_openl_step.jpg used on input line 290.
+(pdftex.def)             Requested size: 280.82747pt x 138.12541pt.
+
+<figures/Pzmap_dc.jpg, id=475, 940.26282pt x 611.28375pt>
+File: figures/Pzmap_dc.jpg Graphic file (type jpg)
+
+<use figures/Pzmap_dc.jpg>
+Package pdftex.def Info: figures/Pzmap_dc.jpg used on input line 299.
+(pdftex.def)             Requested size: 280.82747pt x 182.56572pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[20 <./figures/motor_openl_step.jpg> <./figures/Pzmap_dc.jpg>]
+<figures/x_y_equalV.jpg, id=484, 1265.47781pt x 707.64375pt>
+File: figures/x_y_equalV.jpg Graphic file (type jpg)
+
+<use figures/x_y_equalV.jpg>
+Package pdftex.def Info: figures/x_y_equalV.jpg used on input line 315.
+(pdftex.def)             Requested size: 188.5569pt x 105.42932pt.
+LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <10> not available
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 316.
+
+<figures/AS_equalV.jpg, id=485, 1434.10782pt x 707.64375pt>
+File: figures/AS_equalV.jpg Graphic file (type jpg)
+
+<use figures/AS_equalV.jpg>
+Package pdftex.def Info: figures/AS_equalV.jpg used on input line 322.
+(pdftex.def)             Requested size: 188.5569pt x 93.0335pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[21 <./figures/x_y_equalV.jpg> <./figures/AS_equalV.jpg>]
+<figures/x_y_zeroV.jpg, id=494, 1266.23062pt x 727.21687pt>
+File: figures/x_y_zeroV.jpg Graphic file (type jpg)
+
+<use figures/x_y_zeroV.jpg>
+Package pdftex.def Info: figures/x_y_zeroV.jpg used on input line 341.
+(pdftex.def)             Requested size: 280.82747pt x 161.27539pt.
+
+<figures/turning_speed_zeroV.jpg, id=495, 1437.87187pt x 706.13812pt>
+File: figures/turning_speed_zeroV.jpg Graphic file (type jpg)
+
+<use figures/turning_speed_zeroV.jpg>
+Package pdftex.def Info: figures/turning_speed_zeroV.jpg used on input line 351
+.
+(pdftex.def)             Requested size: 188.5569pt x 92.59851pt.
+
+<figures/turning_rad_zeroV.jpg, id=496, 1431.84938pt x 692.5875pt>
+File: figures/turning_rad_zeroV.jpg Graphic file (type jpg)
+
+<use figures/turning_rad_zeroV.jpg>
+Package pdftex.def Info: figures/turning_rad_zeroV.jpg used on input line 358.
+(pdftex.def)             Requested size: 188.5569pt x 91.20201pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--368
+
+ []
+
+
+LaTeX Warning: Reference `fig::approxV' on page 22 undefined on input line 372.
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[22 <./figures/x_y_zeroV.jpg> <./figures/turning_speed_zeroV.jpg> <./figures/tu
+rning_rad_zeroV.jpg>]
+<figures/XY_approxV.jpg, id=507, 1273.00594pt x 718.93594pt>
+File: figures/XY_approxV.jpg Graphic file (type jpg)
+
+<use figures/XY_approxV.jpg>
+Package pdftex.def Info: figures/XY_approxV.jpg used on input line 379.
+(pdftex.def)             Requested size: 188.5569pt x 106.48642pt.
+
+<figures/R_approxV.jpg, id=508, 1412.27625pt x 694.09312pt>
+File: figures/R_approxV.jpg Graphic file (type jpg)
+
+<use figures/R_approxV.jpg>
+Package pdftex.def Info: figures/R_approxV.jpg used on input line 386.
+(pdftex.def)             Requested size: 188.5569pt x 92.6606pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[23 <./figures/XY_approxV.jpg> <./figures/R_approxV.jpg>]
+<figures/PID_motor.jpg, id=517, 1332.47812pt x 395.22656pt>
+File: figures/PID_motor.jpg Graphic file (type jpg)
+
+<use figures/PID_motor.jpg>
+Package pdftex.def Info: figures/PID_motor.jpg used on input line 438.
+(pdftex.def)             Requested size: 361.06302pt x 107.09251pt.
+
+<figures/CL_OL_comp.jpg, id=519, 1432.60219pt x 706.13812pt>
+File: figures/CL_OL_comp.jpg Graphic file (type jpg)
+
+<use figures/CL_OL_comp.jpg>
+Package pdftex.def Info: figures/CL_OL_comp.jpg used on input line 447.
+(pdftex.def)             Requested size: 280.82747pt x 138.4129pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[24 <./figures/PID_motor.jpg>]
+<figures/PID_tuner.jpg, id=532, 1318.9275pt x 609.77812pt>
+File: figures/PID_tuner.jpg Graphic file (type jpg)
+
+<use figures/PID_tuner.jpg>
+Package pdftex.def Info: figures/PID_tuner.jpg used on input line 464.
+(pdftex.def)             Requested size: 280.82747pt x 129.83434pt.
+) (sections/development.tex
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[25 <./figures/CL_OL_comp.jpg> <./figures/PID_tuner.jpg>] [26
 
 
 ]
 Chapter 4.
+<figures/voltage1.jpg, id=542, 278.54062pt x 278.54062pt>
+File: figures/voltage1.jpg Graphic file (type jpg)
+
+<use figures/voltage1.jpg>
+Package pdftex.def Info: figures/voltage1.jpg used on input line 12.
+(pdftex.def)             Requested size: 200.59193pt x 200.59584pt.
+ [27 <./figures/voltage1.jpg>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[28]
+Overfull \hbox (12.72948pt too wide) in paragraph at lines 79--81
+[][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (65.2899pt too wide) in paragraph at lines 81--82
+[][][][][][][][][][][][][][][][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[29]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[30]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[31]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[32]
+Overfull \hbox (12.72948pt too wide) in paragraph at lines 246--248
+[][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (65.2899pt too wide) in paragraph at lines 248--249
+[][][][][][][][][][][][][][][][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[33]
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
+ine 262.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[34]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[35]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[36]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[37]) (sections/conclusion.tex
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[38]
+Chapter 5.
+
+Overfull \hbox (16.72537pt too wide) in paragraph at lines 1--1
+|\T1/pplx/b/n/24.88 Conclusion and Fu-ture De-vel-op-ment| 
+ []
+
+) [39
+
+
+] [40
+
+
+]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 42.
+ (D:\Software\Miktex\tex\latex\base\t1cmtt.fd
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
+Overfull \hbox (7.11967pt too wide) in paragraph at lines 42--42
+\T1/cmtt/m/n/10.95 utm _ source = myshopping & utm _ medium = cpc & utm _ conte
+nt = saul & utm _ campaign =
+ []
 
-LaTeX Warning: Empty bibliography on input line 41.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.42 \printbibliography[heading=bibintoc]
+                                         
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-(sections/appAname.tex [17] [18
+! Missing $ inserted.
+<inserted text> 
+                $
+l.42 \printbibliography[heading=bibintoc]
+                                         
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+(sections/appAname.tex [41] [42
 
 
 ]
 Appendix A.
-)
+<datasheets/driverchip.pdf, id=896, 597.23125pt x 845.1575pt>
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf>
+Package pdftex.def Info: datasheets/driverchip.pdf used on input line 8.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+ <use datasheets/driverchip.pdf>
+Package pdftex.def Info: datasheets/driverchip.pdf used on input line 8.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+
+<datasheets/driverchip.pdf, id=899, page=1, 597.23125pt x 845.1575pt>
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf, page 1>
+Package pdftex.def Info: datasheets/driverchip.pdf, page1 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf, page 1>
+Package pdftex.def Info: datasheets/driverchip.pdf, page1 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+ [43]
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf, page 1>
+Package pdftex.def Info: datasheets/driverchip.pdf, page1 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf, page 1>
+Package pdftex.def Info: datasheets/driverchip.pdf, page1 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+<use datasheets/driverchip.pdf, page 1>
+Package pdftex.def Info: datasheets/driverchip.pdf, page1 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+ [44 <./datasheets/driverchip.pdf>]
+<datasheets/driverchip.pdf, id=916, page=2, 597.23125pt x 845.1575pt>
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf, page 2>
+Package pdftex.def Info: datasheets/driverchip.pdf, page2 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf, page 2>
+Package pdftex.def Info: datasheets/driverchip.pdf, page2 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+<use datasheets/driverchip.pdf, page 2>
+Package pdftex.def Info: datasheets/driverchip.pdf, page2 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+ [45 <./datasheets/driverchip.pdf>]
+<datasheets/driverchip.pdf, id=924, page=3, 597.23125pt x 845.1575pt>
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf, page 3>
+Package pdftex.def Info: datasheets/driverchip.pdf, page3 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf, page 3>
+Package pdftex.def Info: datasheets/driverchip.pdf, page3 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+<use datasheets/driverchip.pdf, page 3>
+Package pdftex.def Info: datasheets/driverchip.pdf, page3 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+ [46 <./datasheets/driverchip.pdf>]
+<datasheets/driverchip.pdf, id=930, page=4, 597.23125pt x 845.1575pt>
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf, page 4>
+Package pdftex.def Info: datasheets/driverchip.pdf, page4 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf, page 4>
+Package pdftex.def Info: datasheets/driverchip.pdf, page4 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+<use datasheets/driverchip.pdf, page 4>
+Package pdftex.def Info: datasheets/driverchip.pdf, page4 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+ [47 <./datasheets/driverchip.pdf>]
+<datasheets/driverchip.pdf, id=936, page=5, 597.23125pt x 845.1575pt>
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf, page 5>
+Package pdftex.def Info: datasheets/driverchip.pdf, page5 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf, page 5>
+Package pdftex.def Info: datasheets/driverchip.pdf, page5 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+<use datasheets/driverchip.pdf, page 5>
+Package pdftex.def Info: datasheets/driverchip.pdf, page5 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+ [48 <./datasheets/driverchip.pdf>]
+<datasheets/driverchip.pdf, id=942, page=6, 597.23125pt x 845.1575pt>
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf, page 6>
+Package pdftex.def Info: datasheets/driverchip.pdf, page6 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf, page 6>
+Package pdftex.def Info: datasheets/driverchip.pdf, page6 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+<use datasheets/driverchip.pdf, page 6>
+Package pdftex.def Info: datasheets/driverchip.pdf, page6 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+ [49 <./datasheets/driverchip.pdf>]
+<datasheets/driverchip.pdf, id=948, page=7, 597.23125pt x 845.1575pt>
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf, page 7>
+Package pdftex.def Info: datasheets/driverchip.pdf, page7 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf, page 7>
+Package pdftex.def Info: datasheets/driverchip.pdf, page7 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+<use datasheets/driverchip.pdf, page 7>
+Package pdftex.def Info: datasheets/driverchip.pdf, page7 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+ [50 <./datasheets/driverchip.pdf>]
+<datasheets/driverchip.pdf, id=954, page=8, 597.23125pt x 845.1575pt>
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf, page 8>
+Package pdftex.def Info: datasheets/driverchip.pdf, page8 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf, page 8>
+Package pdftex.def Info: datasheets/driverchip.pdf, page8 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+<use datasheets/driverchip.pdf, page 8>
+Package pdftex.def Info: datasheets/driverchip.pdf, page8 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+ [51 <./datasheets/driverchip.pdf>]
+<datasheets/driverchip.pdf, id=961, page=9, 597.23125pt x 845.1575pt>
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf, page 9>
+Package pdftex.def Info: datasheets/driverchip.pdf, page9 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf, page 9>
+Package pdftex.def Info: datasheets/driverchip.pdf, page9 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+<use datasheets/driverchip.pdf, page 9>
+Package pdftex.def Info: datasheets/driverchip.pdf, page9 used on input line 8.
+
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+ [52 <./datasheets/driverchip.pdf>]
+<datasheets/driverchip.pdf, id=967, page=10, 597.23125pt x 845.1575pt>
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf, page 10>
+Package pdftex.def Info: datasheets/driverchip.pdf, page10 used on input line 8
+.
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf, page 10>
+Package pdftex.def Info: datasheets/driverchip.pdf, page10 used on input line 8
+.
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+<use datasheets/driverchip.pdf, page 10>
+Package pdftex.def Info: datasheets/driverchip.pdf, page10 used on input line 8
+.
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+ [53 <./datasheets/driverchip.pdf>]
+<datasheets/driverchip.pdf, id=973, page=11, 597.23125pt x 845.1575pt>
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf, page 11>
+Package pdftex.def Info: datasheets/driverchip.pdf, page11 used on input line 8
+.
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf, page 11>
+Package pdftex.def Info: datasheets/driverchip.pdf, page11 used on input line 8
+.
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+<use datasheets/driverchip.pdf, page 11>
+Package pdftex.def Info: datasheets/driverchip.pdf, page11 used on input line 8
+.
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+ [54 <./datasheets/driverchip.pdf>]
+<datasheets/driverchip.pdf, id=979, page=12, 597.23125pt x 845.1575pt>
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf, page 12>
+Package pdftex.def Info: datasheets/driverchip.pdf, page12 used on input line 8
+.
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf, page 12>
+Package pdftex.def Info: datasheets/driverchip.pdf, page12 used on input line 8
+.
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+<use datasheets/driverchip.pdf, page 12>
+Package pdftex.def Info: datasheets/driverchip.pdf, page12 used on input line 8
+.
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+ [55 <./datasheets/driverchip.pdf>]
+<datasheets/driverchip.pdf, id=985, page=13, 597.23125pt x 845.1575pt>
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf, page 13>
+Package pdftex.def Info: datasheets/driverchip.pdf, page13 used on input line 8
+.
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+
+<use datasheets/driverchip.pdf, page 13>
+Package pdftex.def Info: datasheets/driverchip.pdf, page13 used on input line 8
+.
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/driverchip.pdf Graphic file (type pdf)
+<use datasheets/driverchip.pdf, page 13>
+Package pdftex.def Info: datasheets/driverchip.pdf, page13 used on input line 8
+.
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+ [56 <./datasheets/driverchip.pdf>]
+<datasheets/EW-7811Un_Datasheet_English.pdf, id=991, 597.55246pt x 845.19763pt>
+File: datasheets/EW-7811Un_Datasheet_English.pdf Graphic file (type pdf)
+<use datasheets/EW-7811Un_Datasheet_English.pdf>
+Package pdftex.def Info: datasheets/EW-7811Un_Datasheet_English.pdf used on inp
+ut line 15.
+(pdftex.def)             Requested size: 597.551pt x 845.19557pt.
+File: datasheets/EW-7811Un_Datasheet_English.pdf Graphic file (type pdf)
+
+<use datasheets/EW-7811Un_Datasheet_English.pdf>
+Package pdftex.def Info: datasheets/EW-7811Un_Datasheet_English.pdf used on inp
+ut line 15.
+(pdftex.def)             Requested size: 597.551pt x 845.19557pt.
+
+<datasheets/EW-7811Un_Datasheet_English.pdf, id=994, page=1, 597.55246pt x 845.
+19763pt>
+File: datasheets/EW-7811Un_Datasheet_English.pdf Graphic file (type pdf)
+ <use datasheets/EW-7811Un_Datasheet_English.pdf, page 1>
+Package pdftex.def Info: datasheets/EW-7811Un_Datasheet_English.pdf, page1 used
+ on input line 15.
+(pdftex.def)             Requested size: 641.94606pt x 591.53114pt.
+File: datasheets/EW-7811Un_Datasheet_English.pdf Graphic file (type pdf)
+
+<use datasheets/EW-7811Un_Datasheet_English.pdf, page 1>
+Package pdftex.def Info: datasheets/EW-7811Un_Datasheet_English.pdf, page1 used
+ on input line 15.
+(pdftex.def)             Requested size: 641.94606pt x 591.53114pt.
+File: datasheets/EW-7811Un_Datasheet_English.pdf Graphic file (type pdf)
+
+<use datasheets/EW-7811Un_Datasheet_English.pdf, page 1>
+Package pdftex.def Info: datasheets/EW-7811Un_Datasheet_English.pdf, page1 used
+ on input line 15.
+(pdftex.def)             Requested size: 641.94606pt x 591.53114pt.
+File: datasheets/EW-7811Un_Datasheet_English.pdf Graphic file (type pdf)
+
+<use datasheets/EW-7811Un_Datasheet_English.pdf, page 1>
+Package pdftex.def Info: datasheets/EW-7811Un_Datasheet_English.pdf, page1 used
+ on input line 15.
+(pdftex.def)             Requested size: 641.94606pt x 591.53114pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/EW-7811Un_Datasheet_English.pdf Graphic file (type pdf)
+<use datasheets/EW-7811Un_Datasheet_English.pdf, page 1>
+Package pdftex.def Info: datasheets/EW-7811Un_Datasheet_English.pdf, page1 used
+ on input line 15.
+(pdftex.def)             Requested size: 641.94606pt x 591.53114pt.
+ [57 <./datasheets/EW-7811Un_Datasheet_English.pdf>]
+<datasheets/EW-7811Un_Datasheet_English.pdf, id=1037, page=2, 597.55246pt x 845
+.19763pt>
+File: datasheets/EW-7811Un_Datasheet_English.pdf Graphic file (type pdf)
+ <use datasheets/EW-7811Un_Datasheet_English.pdf, page 2>
+Package pdftex.def Info: datasheets/EW-7811Un_Datasheet_English.pdf, page2 used
+ on input line 15.
+(pdftex.def)             Requested size: 641.94606pt x 591.53114pt.
+File: datasheets/EW-7811Un_Datasheet_English.pdf Graphic file (type pdf)
+
+<use datasheets/EW-7811Un_Datasheet_English.pdf, page 2>
+Package pdftex.def Info: datasheets/EW-7811Un_Datasheet_English.pdf, page2 used
+ on input line 15.
+(pdftex.def)             Requested size: 641.94606pt x 591.53114pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/EW-7811Un_Datasheet_English.pdf Graphic file (type pdf)
+<use datasheets/EW-7811Un_Datasheet_English.pdf, page 2>
+Package pdftex.def Info: datasheets/EW-7811Un_Datasheet_English.pdf, page2 used
+ on input line 15.
+(pdftex.def)             Requested size: 641.94606pt x 591.53114pt.
+ [58 <./datasheets/EW-7811Un_Datasheet_English.pdf>]
+<datasheets/HCSR04.pdf, id=1064, 597.23125pt x 845.1575pt>
+File: datasheets/HCSR04.pdf Graphic file (type pdf)
+
+<use datasheets/HCSR04.pdf>
+Package pdftex.def Info: datasheets/HCSR04.pdf used on input line 22.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: datasheets/HCSR04.pdf Graphic file (type pdf)
+ <use datasheets/HCSR04.pdf>
+Package pdftex.def Info: datasheets/HCSR04.pdf used on input line 22.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+
+<datasheets/HCSR04.pdf, id=1067, page=1, 597.23125pt x 845.1575pt>
+File: datasheets/HCSR04.pdf Graphic file (type pdf)
+
+<use datasheets/HCSR04.pdf, page 1>
+Package pdftex.def Info: datasheets/HCSR04.pdf, page1 used on input line 22.
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+File: datasheets/HCSR04.pdf Graphic file (type pdf)
+ <use datasheets/HCSR04.pdf, page 1>
+Package pdftex.def Info: datasheets/HCSR04.pdf, page1 used on input line 22.
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+File: datasheets/HCSR04.pdf Graphic file (type pdf)
+
+<use datasheets/HCSR04.pdf, page 1>
+Package pdftex.def Info: datasheets/HCSR04.pdf, page1 used on input line 22.
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+File: datasheets/HCSR04.pdf Graphic file (type pdf)
+ <use datasheets/HCSR04.pdf, page 1>
+Package pdftex.def Info: datasheets/HCSR04.pdf, page1 used on input line 22.
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/HCSR04.pdf Graphic file (type pdf)
+<use datasheets/HCSR04.pdf, page 1>
+Package pdftex.def Info: datasheets/HCSR04.pdf, page1 used on input line 22.
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+ [59 <./datasheets/HCSR04.pdf>]
+<datasheets/HCSR04.pdf, id=1090, page=2, 597.23125pt x 845.1575pt>
+File: datasheets/HCSR04.pdf Graphic file (type pdf)
+
+<use datasheets/HCSR04.pdf, page 2>
+Package pdftex.def Info: datasheets/HCSR04.pdf, page2 used on input line 22.
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+File: datasheets/HCSR04.pdf Graphic file (type pdf)
+ <use datasheets/HCSR04.pdf, page 2>
+Package pdftex.def Info: datasheets/HCSR04.pdf, page2 used on input line 22.
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/HCSR04.pdf Graphic file (type pdf)
+<use datasheets/HCSR04.pdf, page 2>
+Package pdftex.def Info: datasheets/HCSR04.pdf, page2 used on input line 22.
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+ [60 <./datasheets/HCSR04.pdf>]
+<datasheets/HCSR04.pdf, id=1097, page=3, 597.23125pt x 845.1575pt>
+File: datasheets/HCSR04.pdf Graphic file (type pdf)
+
+<use datasheets/HCSR04.pdf, page 3>
+Package pdftex.def Info: datasheets/HCSR04.pdf, page3 used on input line 22.
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+File: datasheets/HCSR04.pdf Graphic file (type pdf)
+ <use datasheets/HCSR04.pdf, page 3>
+Package pdftex.def Info: datasheets/HCSR04.pdf, page3 used on input line 22.
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/HCSR04.pdf Graphic file (type pdf)
+<use datasheets/HCSR04.pdf, page 3>
+Package pdftex.def Info: datasheets/HCSR04.pdf, page3 used on input line 22.
+(pdftex.def)             Requested size: 641.93817pt x 591.54175pt.
+ [61 <./datasheets/HCSR04.pdf>]
+<datasheets/RaspberryPi_Technical_Data_Sheet.pdf, id=1102, 614.295pt x 794.97pt
+>
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+ <use datasheets/RaspberryPi_Technical_Data_Sheet.pdf>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf used o
+n input line 29.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf used o
+n input line 29.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+<datasheets/RaspberryPi_Technical_Data_Sheet.pdf, id=1105, page=1, 614.295pt x 
+794.97pt>
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+ <use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 1>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page1
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 1>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page1
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 1>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page1
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 1>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page1
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 1>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page1
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+ [62 <./datasheets/RaspberryPi_Technical_Data_Sheet.pdf>]
+<datasheets/RaspberryPi_Technical_Data_Sheet.pdf, id=1126, page=2, 614.295pt x 
+794.97pt>
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+ <use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 2>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page2
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 2>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page2
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 2>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page2
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+ [63 <./datasheets/RaspberryPi_Technical_Data_Sheet.pdf>]
+<datasheets/RaspberryPi_Technical_Data_Sheet.pdf, id=1146, page=3, 614.295pt x 
+794.97pt>
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+ <use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 3>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page3
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 3>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page3
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 3>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page3
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+ [64 <./datasheets/RaspberryPi_Technical_Data_Sheet.pdf>]
+<datasheets/RaspberryPi_Technical_Data_Sheet.pdf, id=1155, page=4, 614.295pt x 
+794.97pt>
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+ <use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 4>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page4
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 4>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page4
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 4>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page4
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+ [65 <./datasheets/RaspberryPi_Technical_Data_Sheet.pdf>]
+<datasheets/RaspberryPi_Technical_Data_Sheet.pdf, id=1160, page=5, 614.295pt x 
+794.97pt>
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+ <use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 5>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page5
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 5>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page5
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 5>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page5
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+ [66 <./datasheets/RaspberryPi_Technical_Data_Sheet.pdf>]
+<datasheets/RaspberryPi_Technical_Data_Sheet.pdf, id=1165, page=6, 614.295pt x 
+794.97pt>
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+ <use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 6>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page6
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 6>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page6
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 6>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page6
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+ [67 <./datasheets/RaspberryPi_Technical_Data_Sheet.pdf>]
+<datasheets/RaspberryPi_Technical_Data_Sheet.pdf, id=1179, page=7, 614.295pt x 
+794.97pt>
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+ <use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 7>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page7
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 7>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page7
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 7>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page7
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+ [68 <./datasheets/RaspberryPi_Technical_Data_Sheet.pdf>]
+<datasheets/RaspberryPi_Technical_Data_Sheet.pdf, id=1184, page=8, 614.295pt x 
+794.97pt>
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+ <use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 8>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page8
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 8>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page8
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 8>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page8
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+ [69 <./datasheets/RaspberryPi_Technical_Data_Sheet.pdf>]
+<datasheets/RaspberryPi_Technical_Data_Sheet.pdf, id=1190, page=9, 614.295pt x 
+794.97pt>
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+ <use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 9>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page9
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 9>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page9
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 9>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page9
+ used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+ [70 <./datasheets/RaspberryPi_Technical_Data_Sheet.pdf>]
+<datasheets/RaspberryPi_Technical_Data_Sheet.pdf, id=1195, page=10, 614.295pt x
+ 794.97pt>
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+ <use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 10>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page1
+0 used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 10>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page1
+0 used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 10>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page1
+0 used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+ [71 <./datasheets/RaspberryPi_Technical_Data_Sheet.pdf>]
+<datasheets/RaspberryPi_Technical_Data_Sheet.pdf, id=1200, page=11, 614.295pt x
+ 794.97pt>
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+ <use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 11>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page1
+1 used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 11>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page1
+1 used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 11>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page1
+1 used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+ [72 <./datasheets/RaspberryPi_Technical_Data_Sheet.pdf>]
+<datasheets/RaspberryPi_Technical_Data_Sheet.pdf, id=1205, page=12, 614.295pt x
+ 794.97pt>
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+ <use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 12>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page1
+2 used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 12>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page1
+2 used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 12>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page1
+2 used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+ [73 <./datasheets/RaspberryPi_Technical_Data_Sheet.pdf>]
+<datasheets/RaspberryPi_Technical_Data_Sheet.pdf, id=1210, page=13, 614.295pt x
+ 794.97pt>
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+ <use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 13>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page1
+3 used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 13>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page1
+3 used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 13>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page1
+3 used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+ [74 <./datasheets/RaspberryPi_Technical_Data_Sheet.pdf>]
+<datasheets/RaspberryPi_Technical_Data_Sheet.pdf, id=1215, page=14, 614.295pt x
+ 794.97pt>
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+ <use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 14>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page1
+4 used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 14>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page1
+4 used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: datasheets/RaspberryPi_Technical_Data_Sheet.pdf Graphic file (type pdf)
+<use datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page 14>
+Package pdftex.def Info: datasheets/RaspberryPi_Technical_Data_Sheet.pdf, page1
+4 used on input line 29.
+(pdftex.def)             Requested size: 641.93556pt x 591.54376pt.
+ [75 <./datasheets/RaspberryPi_Technical_Data_Sheet.pdf>])
 \tf@thm=\write8
 \openout8 = `master.thm'.
 
  
 AED: lastpage setting LastPage
-[19]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 45.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 45.
- (master.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 45.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 45.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 46.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 46.
+(master.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 46.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 46.
 
 
 Package rerunfilecheck Warning: File `master.out' has changed.
@@ -1755,8 +3117,8 @@ Package rerunfilecheck Warning: File `master.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `master.out':
-(rerunfilecheck)             Before: F6ECAB9AAD1C7A6CC2AEBC96D910505A;1034
-(rerunfilecheck)             After:  00F8FCB66A4FE4ABA0DA6340313939D6;1100.
+(rerunfilecheck)             Before: 0BBCE0A7DCE26B9713BD8FADA7B1E96D;2655
+(rerunfilecheck)             After:  19C94FDA83FD7DE4E3C13C7855331EB0;2655.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1764,43 +3126,47 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package biblatex Warning: Please (re)run BibTeX on the file(s):
-(biblatex)                master
-(biblatex)                and rerun LaTeX afterwards.
+LaTeX Warning: There were multiply-defined labels.
 
 Package logreq Info: Writing requests to 'master.run.xml'.
 \openout1 = `master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24883 strings out of 493333
- 444461 string characters out of 3143095
- 783509 words of memory out of 3000000
- 27780 multiletter control sequences out of 15000+200000
- 63002 words of font info for 113 fonts, out of 3000000 for 9000
+ 27721 strings out of 493333
+ 488288 string characters out of 3143095
+ 815871 words of memory out of 3000000
+ 30191 multiletter control sequences out of 15000+200000
+ 66222 words of font info for 120 fonts, out of 3000000 for 9000
  1146 hyphenation exceptions out of 8191
- 64i,14n,80p,897b,1672s stack positions out of 5000i,500n,10000p,200000b,50000s
-{D:/Software/Miktex/fonts/enc/dvips/base/8r.enc} <C:\Users\Philip\AppData\Loc
-al\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1095.pk> <C:\Users\Philip\
-AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1000.pk> <C:\Us
-ers\Philip\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1000
-.pk><D:/Software/Miktex/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><D:/Software
-/Miktex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/Software/Miktex/fonts/typ
-e1/public/amsfonts/cm/cmr10.pfb><D:/Software/Miktex/fonts/type1/public/amsfonts
-/cm/cmsy10.pfb><C:/Users/Philip/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/m
-athpazo/fplmb.pfb><C:/Users/Philip/AppData/Roaming/MiKTeX/2.9/fonts/type1/publi
-c/mathpazo/fplmbi.pfb><C:/Users/Philip/AppData/Roaming/MiKTeX/2.9/fonts/type1/p
-ublic/mathpazo/fplmr.pfb><C:/Users/Philip/AppData/Roaming/MiKTeX/2.9/fonts/type
-1/public/mathpazo/fplmri.pfb><D:/Software/Miktex/fonts/type1/urw/palatino/uplb8
-a.pfb><D:/Software/Miktex/fonts/type1/urw/palatino/uplbi8a.pfb><D:/Software/Mik
-tex/fonts/type1/urw/palatino/uplr8a.pfb><D:/Software/Miktex/fonts/type1/urw/pal
-atino/uplri8a.pfb>
-Output written on master.pdf (29 pages, 469863 bytes).
+ 64i,20n,76p,897b,3073s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{section*.37} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.36} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter*.38} has been referenced but does not exist
+, replaced by a fixed one
+
+ <C:\Users\Philip\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
+ctt1095.pk>{D:/Software/Miktex/fonts/enc/dvips/base/8r.enc} <C:\Users\Philip\Ap
+pData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1000.pk> <C:\User
+s\Philip\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1000.p
+k><D:/Software/Miktex/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><D:/Software/M
+iktex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/Software/Miktex/fonts/type1
+/public/amsfonts/cm/cmex10.pfb><D:/Software/Miktex/fonts/type1/public/amsfonts/
+cm/cmr10.pfb><D:/Software/Miktex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
+Users/Philip/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/mathpazo/fplmb.pfb><
+C:/Users/Philip/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/mathpazo/fplmbi.p
+fb><C:/Users/Philip/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/mathpazo/fplm
+r.pfb><C:/Users/Philip/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/mathpazo/f
+plmri.pfb><D:/Software/Miktex/fonts/type1/urw/palatino/uplb8a.pfb><D:/Software/
+Miktex/fonts/type1/urw/palatino/uplbi8a.pfb><D:/Software/Miktex/fonts/type1/urw
+/palatino/uplr8a.pfb><D:/Software/Miktex/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on master.pdf (85 pages, 4572241 bytes).
 PDF statistics:
- 455 PDF objects out of 1000 (max. 8388607)
- 96 named destinations out of 1000 (max. 500000)
- 176 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1458 PDF objects out of 1728 (max. 8388607)
+ 448 named destinations out of 1000 (max. 500000)
+ 695 words of extra memory for PDF output out of 10000 (max. 10000000)
 

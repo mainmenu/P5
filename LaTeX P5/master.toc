@@ -8,34 +8,74 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{The Future of Vehicle Automation}{1}{paragraph*.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{Levels of Automation}{1}{subparagraph*.8}
+\contentsline {subparagraph}{Levels of Automation}{1}{subparagraph*.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}Examples}{2}{section.1.1}
+\contentsline {section}{\numberline {1.1}Mobile robotics}{2}{section.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}How Does Sections, Subsections, and Subsections Look?}{3}{section.1.2}
+\contentsline {section}{\numberline {1.2}Motivation and summary of project}{3}{section.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.1}This is a Subsection}{3}{subsection.1.2.1}
+\contentsline {chapter}{\numberline {2}Hardware}{5}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{This is a Subsubsection}{3}{subsubsection*.11}
+\contentsline {section}{\numberline {2.1}Single board computer}{5}{section.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{A Paragraph}{3}{paragraph*.12}
+\contentsline {section}{\numberline {2.2}Distance measuring}{6}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subparagraph}{A Subparagraph}{3}{subparagraph*.13}
+\contentsline {section}{\numberline {2.3}DC motors and chassis}{7}{section.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Chapter 2 name}{5}{chapter.2}
+\contentsline {section}{\numberline {2.4}Motor driver}{7}{section.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Modeling}{7}{chapter.3}
+\contentsline {section}{\numberline {2.5}Speed sensor}{8}{section.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}DC motors dynamics model}{7}{section.3.1}
+\contentsline {section}{\numberline {2.6}Wi-Fi adapter}{9}{section.2.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.1}Simulink Model}{9}{subsection.3.1.1}
+\contentsline {section}{\numberline {2.7}Assembly}{9}{section.2.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Kinematics Model of Differential Drive}{11}{section.3.2}
+\contentsline {chapter}{\numberline {3}Modeling and Simulation}{11}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}Kinematics in simulink}{14}{subsection.3.2.1}
+\contentsline {section}{\numberline {3.1}DC motors dynamics model}{11}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Complete model}{15}{section.3.3}
+\contentsline {subsection}{\numberline {3.1.1}Simulink Model}{13}{subsection.3.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Conclusion}{17}{chapter.4}
+\contentsline {section}{\numberline {3.2}Kinematics Model of Differential Drive}{14}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Appendix A name}{19}{appendix.A}
+\contentsline {subsection}{\numberline {3.2.1}Kinematics in simulink}{17}{subsection.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Complete model}{19}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.1}DC motors model analysis}{20}{subsection.3.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.2}Kinematics model analysis}{21}{subsection.3.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Cruise Control}{23}{section.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.1}PID controller}{23}{subsection.3.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.2}Simulink Closed-loop Response}{24}{subsection.3.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Development}{27}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Hardware testing}{27}{paragraph*.33}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Ultrasonic sensors}{27}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}DC motors}{29}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Raspberry Pi configuration and software}{31}{section.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.1}Raspberry setup}{31}{subsection.4.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.2}Software}{31}{subsection.4.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.3}Ultrasonic sensor reading}{33}{subsection.4.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.4}Movements}{34}{subsection.4.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.5}Main loop}{36}{subsection.4.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}N.B.}{38}{section.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Conclusion and Future Development}{39}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{41}{chapter*.36}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Driver chip}{43}{appendix.A}

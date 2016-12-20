@@ -164,10 +164,10 @@ To be precise, only three external libraries were used at the time of the develo
 
 \begin{itemize}
 
-\item \textbf{Sys module} \\ This module provides a number of functions and variables that can be used to manipulate different parts of the Python runtime environment. \todo{citationsys}
+\item \textbf{Sys module} \\ This module provides a number of functions and variables that can be used to manipulate different parts of the Python runtime environment. \cite{sys_module}
 
 \item \textbf{Time module} \\ This module provides a number of functions to deal with dates and the time within a day. It is a thin layer on top of the C runtime library.
-A given date and time can either be represented as a floating point value (the number of seconds since a reference date, usually January 1st, 1970), or as a time tuple. \todo{citationtime}
+A given date and time can either be represented as a floating point value (the number of seconds since a reference date, usually January 1st, 1970), or as a time tuple. \cite{time_module}
 
 \item \textbf{RPi.GPIO module} \\ This module is for functions that are connected to the GPIO pins.
 \end{itemize}
@@ -292,7 +292,7 @@ The last lines of code ensure that when data reading is initiated, it would pass
 
 \subsection{Movements}
 
-The expected movements of a differential drive robot was covered in section \ref{}. In this subsection, a description is conducted on the pre made functions governing the behaviour of the physical system. It is important to mention \todo{cont and explan PID implement} 
+The expected movements of a differential drive robot was covered in section \ref{kin_analysis}. In this subsection, a description is conducted on the pre made functions governing the behaviour of the physical system. It is important to mention  
   
 At the completion of this chapter, five different functions concerned with the movements, have been used.
 
@@ -319,8 +319,8 @@ The second function is the forward motion.
 	PWMR.start(SPEED)
 \end{lstlisting}
 
-From the code snippet, it can be seen that when the forward function is executed, both of the motors start moving in the same direction and the speed is determined by the variable SPEED. It is important to mention that small fluctuations in the speed of each wheel will cause curved motion instead of the desired forward linear motion, as discussed in section \ref{} \todo{ref to model}. Thus appropriate control needs to be applied in order to maintain equal speed in both wheels. 
-\todo{PUT ENCODERS - PID ETC HERE} 
+From the code snippet, it can be seen that when the forward function is executed, both of the motors start moving in the same direction and the speed is determined by the variable SPEED. It is important to mention that small fluctuations in the speed of each wheel will cause curved motion instead of the desired forward linear motion, as discussed in section \ref{kin_analysis}. Thus appropriate control needs to be applied in order to maintain equal speed in both wheels. 
+
 How the speed is determined will be further discussed in subsection \ref{main_loop}: main loop.
 
 The third function is the reverse, or what is essentially the same as the forward function only that the triggered pins are the backward ones. As in the forward movements, appropriate control is needed to maintain backward linear motion.
@@ -338,7 +338,7 @@ The two movements: forward and backward are the essential functions for the robo
 
 Next we have the turning functions left() and right().
 It was decided that the turning functions should be made that the vehicle takes the least amount of space to turn.
-As it was explained in section \ref{} \todo{Model},in a differential drive if the velocities of each wheel are the same but in a different direction, the robot will rotate around its middle point of the wheel axis, which essentially becomes the turning radius.
+As it was explained in section \ref{kin_model},in a differential drive if the velocities of each wheel are the same but in a different direction, the robot will rotate around its middle point of the wheel axis, which essentially becomes the turning radius.
 
 Below are the two functions needed for turning.
 
@@ -420,3 +420,6 @@ After the turning phase the loop will go back to the beginning and start all ove
 
 The loop is made as simple as possible to avoid any complications while running the code.
 
+\section{N.B.}
+
+Unfortunately, due to shipping delays, the completion of this part was done without the acquisition of the optical encoders, necessary to implement the crucial wheel speed control. Obstacle avoidance was performed, relying on the similarity of the motors, and was sufficient to successfully test the above mentioned code. After the arrival of the encoders (which is after the completion of this paper),a thorough update would be performed on this chapter and presented in order at the examination date. 
