@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.11.23)  20 DEC 2016 07:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.11.23)  20 DEC 2016 09:30
 entering extended mode
 **./modeling.tex
 (modeling.tex
@@ -9351,220 +9351,6 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 238--239
 []
  []
 
-
-! LaTeX Error: Environment table undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.240 \begin{table}
-                   [h]
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-Missing character: There is no [ in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no ] in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no D in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no D in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no L in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no L in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no W in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no D in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no s in font nullfont!
-
-! LaTeX Error: \caption outside float.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.253 \caption
-              {Kinematics parameters}
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Missing character: There is no K in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no s in font nullfont!
-
-! LaTeX Error: \begin{document} ended by \end{table}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.255 \end{table}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 240--256
-[]
- []
-
-
-Overfull \hbox (9.27548pt too wide) in paragraph at lines 240--256
-[]
- []
-
 Missing character: There is no U in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no i in font nullfont!
@@ -9582,7 +9368,7 @@ Missing character: There is no s in font nullfont!
 ! Undefined control sequence.
 <write> ...ing: Reference `eq13' on page \thepage 
                                                   \space undefined\on@line .
-l.257 Using equations \ref{eq13}
+l.240 Using equations \ref{eq13}
                                  and \ref{eq14} a simulink block diagram is ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9591,7 +9377,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `eq13' on page  undefined on input line 257.
+LaTeX Warning: Reference `eq13' on page  undefined on input line 240.
 
 Missing character: There is no a in font nullfont!
 Missing character: There is no n in font nullfont!
@@ -9599,7 +9385,7 @@ Missing character: There is no d in font nullfont!
 ! Undefined control sequence.
 <write> ...ing: Reference `eq14' on page \thepage 
                                                   \space undefined\on@line .
-l.257 Using equations \ref{eq13} and \ref{eq14}
+l.240 Using equations \ref{eq13} and \ref{eq14}
                                                 a simulink block diagram is ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9608,7 +9394,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `eq14' on page  undefined on input line 257.
+LaTeX Warning: Reference `eq14' on page  undefined on input line 240.
 
 Missing character: There is no a in font nullfont!
 Missing character: There is no s in font nullfont!
@@ -9655,7 +9441,7 @@ Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
 <write> ... `fig::diff_simulink' on page \thepage 
                                                   \space undefined\on@line .
-l.257 ...ructed in figure \ref{fig::diff_simulink}
+l.240 ...ructed in figure \ref{fig::diff_simulink}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9665,26 +9451,26 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Reference `fig::diff_simulink' on page  undefined on input line 
-257.
+240.
 
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 257--258
+Overfull \hbox (20.0pt too wide) in paragraph at lines 240--241
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 257--258
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 240--241
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 257--258
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 240--241
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 257--258
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 240--241
 [] 
  []
 
@@ -9695,7 +9481,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.259 \begin{figure}
+l.242 \begin{figure}
                     [h]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -9705,7 +9491,7 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.261 \includegraphics
+l.244 \includegraphics
                       [width = 0.8\textwidth]{diff_drive_kin_simulink}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9726,7 +9512,7 @@ Missing character: There is no 8 in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.261 \includegraphics[width = 0.8\textwidth]
+l.244 \includegraphics[width = 0.8\textwidth]
                                              {diff_drive_kin_simulink}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -9735,7 +9521,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.261 \includegraphics[width = 0.8\textwidth]
+l.244 \includegraphics[width = 0.8\textwidth]
                                              {diff_drive_kin_simulink}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -9752,13 +9538,13 @@ Missing character: There is no f in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.261 ...ludegraphics[width = 0.8\textwidth]{diff_
+l.244 ...ludegraphics[width = 0.8\textwidth]{diff_
                                                   drive_kin_simulink}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.261 ...= 0.8\textwidth]{diff_drive_kin_simulink}
+l.244 ...= 0.8\textwidth]{diff_drive_kin_simulink}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -9773,7 +9559,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.262 \caption
+l.245 \caption
               {Differential drive kinematics}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -9785,7 +9571,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.264 \end{figure}
+l.247 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -9794,7 +9580,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.264 \end{figure}
+l.247 \end{figure}
                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -9805,7 +9591,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.264 \end{figure}
+l.247 \end{figure}
                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -9814,12 +9600,12 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 259--265
+Overfull \hbox (20.0pt too wide) in paragraph at lines 242--248
 []
  []
 
 
-Overfull \hbox (210.13745pt too wide) in paragraph at lines 259--265
+Overfull \hbox (210.13745pt too wide) in paragraph at lines 242--248
 []\OML/cmm/m/it/10 rive[]in[]imulink[][]$ 
  []
 
@@ -9975,7 +9761,7 @@ Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
 <write> ...ing: Reference `eq16' on page \thepage 
                                                   \space undefined\on@line .
-l.266 ... which is governed by equation \ref{eq16}
+l.249 ... which is governed by equation \ref{eq16}
                                                   . The derived average line...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9984,7 +9770,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `eq16' on page  undefined on input line 266.
+LaTeX Warning: Reference `eq16' on page  undefined on input line 249.
 
 Missing character: There is no . in font nullfont!
 Missing character: There is no T in font nullfont!
@@ -10045,7 +9831,7 @@ Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
 <write> ...ing: Reference `eq20' on page \thepage 
                                                   \space undefined\on@line .
-l.266 ...to be further used in equation \ref{eq20}
+l.249 ...to be further used in equation \ref{eq20}
                                                    to estimate the position ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10054,7 +9840,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `eq20' on page  undefined on input line 266.
+LaTeX Warning: Reference `eq20' on page  undefined on input line 249.
 
 Missing character: There is no t in font nullfont!
 Missing character: There is no o in font nullfont!
@@ -10194,32 +9980,32 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 266--267
+Overfull \hbox (20.0pt too wide) in paragraph at lines 249--250
 []
  []
 
 
-Overfull \hbox (8.8194pt too wide) in paragraph at lines 266--267
+Overfull \hbox (8.8194pt too wide) in paragraph at lines 249--250
 \OT1/cmr/bx/n/10 D
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 266--267
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 249--250
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 266--267
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 249--250
 []
  []
 
 
-Overfull \hbox (4.97223pt too wide) in paragraph at lines 266--267
+Overfull \hbox (4.97223pt too wide) in paragraph at lines 249--250
 \OML/cmm/m/it/10 $
  []
 
 
-Overfull \hbox (4.97223pt too wide) in paragraph at lines 266--267
+Overfull \hbox (4.97223pt too wide) in paragraph at lines 249--250
 []$
  []
 
@@ -10230,7 +10016,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.268 \begin{figure}
+l.251 \begin{figure}
                     [h]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -10240,8 +10026,8 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.270 \includegraphics
-                      [width = 0.8\textwidth]{kin_pos_subsystem}
+l.253 \includegraphics
+                      [width = 0.6\textwidth]{kin_pos_subsystem}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -10257,11 +10043,11 @@ Missing character: There is no h in font nullfont!
 Missing character: There is no = in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no . in font nullfont!
-Missing character: There is no 8 in font nullfont!
+Missing character: There is no 6 in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.270 \includegraphics[width = 0.8\textwidth]
+l.253 \includegraphics[width = 0.6\textwidth]
                                              {kin_pos_subsystem}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -10270,7 +10056,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.270 \includegraphics[width = 0.8\textwidth]
+l.253 \includegraphics[width = 0.6\textwidth]
                                              {kin_pos_subsystem}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -10286,13 +10072,13 @@ Missing character: There is no n in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.270 \includegraphics[width = 0.8\textwidth]{kin_
+l.253 \includegraphics[width = 0.6\textwidth]{kin_
                                                   pos_subsystem}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.270 ...width = 0.8\textwidth]{kin_pos_subsystem}
+l.253 ...width = 0.6\textwidth]{kin_pos_subsystem}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -10307,7 +10093,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.271 \caption
+l.254 \caption
               {Positioning subsystem}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -10319,7 +10105,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.273 \end{figure}
+l.256 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -10328,7 +10114,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.273 \end{figure}
+l.256 \end{figure}
                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -10339,7 +10125,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.273 \end{figure}
+l.256 \end{figure}
                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -10348,12 +10134,12 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 268--274
+Overfull \hbox (20.0pt too wide) in paragraph at lines 251--257
 []
  []
 
 
-Overfull \hbox (159.79025pt too wide) in paragraph at lines 268--274
+Overfull \hbox (159.79025pt too wide) in paragraph at lines 251--257
 []\OML/cmm/m/it/10 os[]ubsystem[][]$ 
  []
 
@@ -10368,7 +10154,7 @@ Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
 <write> ...erence `fig::pos_sub' on page \thepage 
                                                   \space undefined\on@line .
-l.275 In figure \ref{fig::pos_sub}
+l.258 In figure \ref{fig::pos_sub}
                                    the inputs are the the average speed and ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10377,7 +10163,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig::pos_sub' on page  undefined on input line 275.
+LaTeX Warning: Reference `fig::pos_sub' on page  undefined on input line 258.
 
 Missing character: There is no t in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -10472,7 +10258,7 @@ Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
 <write> ...ing: Reference `eq20' on page \thepage 
                                                   \space undefined\on@line .
-l.275 ... outputs X and Y from equation \ref{eq20}
+l.258 ... outputs X and Y from equation \ref{eq20}
                                                    are fed in a graph to obs...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10481,7 +10267,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `eq20' on page  undefined on input line 275.
+LaTeX Warning: Reference `eq20' on page  undefined on input line 258.
 
 Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
@@ -10539,17 +10325,17 @@ Missing character: There is no m in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 275--276
+Overfull \hbox (20.0pt too wide) in paragraph at lines 258--259
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 275--276
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 258--259
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 275--276
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 258--259
 []
  []
 
@@ -10560,7 +10346,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.277 \begin{figure}
+l.260 \begin{figure}
                     [h]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -10570,7 +10356,7 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.279 \includegraphics
+l.262 \includegraphics
                       [width = 0.8\textwidth]{kin_model_pos}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10591,7 +10377,7 @@ Missing character: There is no 8 in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.279 \includegraphics[width = 0.8\textwidth]
+l.262 \includegraphics[width = 0.8\textwidth]
                                              {kin_model_pos}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -10600,7 +10386,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.279 \includegraphics[width = 0.8\textwidth]
+l.262 \includegraphics[width = 0.8\textwidth]
                                              {kin_model_pos}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -10616,13 +10402,13 @@ Missing character: There is no n in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.279 \includegraphics[width = 0.8\textwidth]{kin_
+l.262 \includegraphics[width = 0.8\textwidth]{kin_
                                                   model_pos}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.279 ...ics[width = 0.8\textwidth]{kin_model_pos}
+l.262 ...ics[width = 0.8\textwidth]{kin_model_pos}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -10637,7 +10423,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.280 \caption
+l.263 \caption
               {Positioning subsystem}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -10649,7 +10435,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.282 \end{figure}
+l.265 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -10658,7 +10444,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.282 \end{figure}
+l.265 \end{figure}
                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -10669,7 +10455,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.282 \end{figure}
+l.265 \end{figure}
                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -10678,12 +10464,12 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 277--283
+Overfull \hbox (20.0pt too wide) in paragraph at lines 260--266
 []
  []
 
 
-Overfull \hbox (139.10385pt too wide) in paragraph at lines 277--283
+Overfull \hbox (139.10385pt too wide) in paragraph at lines 260--266
 []\OML/cmm/m/it/10 odel[]os[][]$ 
  []
 
@@ -10710,9 +10496,9 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
-<write> ...erence `fig::pos_sub' on page \thepage 
+<write> ...ence `fig::pos_model' on page \thepage 
                                                   \space undefined\on@line .
-l.284 The subsystem from figure \ref{fig::pos_sub}
+l.267 ...ubsystem from figure \ref{fig::pos_model}
                                                    is composed of blocks arr...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10721,7 +10507,8 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig::pos_sub' on page  undefined on input line 284.
+LaTeX Warning: Reference `fig::pos_model' on page  undefined on input line 267.
+
 
 Missing character: There is no i in font nullfont!
 Missing character: There is no s in font nullfont!
@@ -10769,7 +10556,7 @@ Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
 <write> ...ing: Reference `eq20' on page \thepage 
                                                   \space undefined\on@line .
-l.284 ...s arranged to reflect equation \ref{eq20}
+l.267 ...s arranged to reflect equation \ref{eq20}
                                                   . The outputs $\dot{x}$ an...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10778,7 +10565,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `eq20' on page  undefined on input line 284.
+LaTeX Warning: Reference `eq20' on page  undefined on input line 267.
 
 Missing character: There is no . in font nullfont!
 Missing character: There is no T in font nullfont!
@@ -10846,32 +10633,32 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 284--285
+Overfull \hbox (20.0pt too wide) in paragraph at lines 267--268
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 284--285
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 267--268
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 284--285
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 267--268
 []
  []
 
 
-Overfull \hbox (5.71527pt too wide) in paragraph at lines 284--285
+Overfull \hbox (5.71527pt too wide) in paragraph at lines 267--268
 []$
  []
 
 
-Overfull \hbox (5.2616pt too wide) in paragraph at lines 284--285
+Overfull \hbox (5.2616pt too wide) in paragraph at lines 267--268
 []$
  []
 
 ! Undefined control sequence.
-l.286 \section
+l.269 \section
               {Complete model}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10893,7 +10680,7 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no l in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 286--287
+Overfull \hbox (20.0pt too wide) in paragraph at lines 269--270
 []
  []
 
@@ -11062,7 +10849,7 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 288--289
+Overfull \hbox (20.0pt too wide) in paragraph at lines 271--272
 []
  []
 
@@ -11073,7 +10860,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.290 \begin{figure}
+l.273 \begin{figure}
                     [h]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -11083,7 +10870,7 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.292 \includegraphics
+l.275 \includegraphics
                       [width = 0.8\textwidth]{comp_model_simulink}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -11104,7 +10891,7 @@ Missing character: There is no 8 in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.292 \includegraphics[width = 0.8\textwidth]
+l.275 \includegraphics[width = 0.8\textwidth]
                                              {comp_model_simulink}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -11113,7 +10900,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.292 \includegraphics[width = 0.8\textwidth]
+l.275 \includegraphics[width = 0.8\textwidth]
                                              {comp_model_simulink}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -11130,13 +10917,13 @@ Missing character: There is no p in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.292 ...ludegraphics[width = 0.8\textwidth]{comp_
+l.275 ...ludegraphics[width = 0.8\textwidth]{comp_
                                                   model_simulink}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.292 ...dth = 0.8\textwidth]{comp_model_simulink}
+l.275 ...dth = 0.8\textwidth]{comp_model_simulink}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -11151,7 +10938,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.293 \caption
+l.276 \caption
               {Complete system model}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -11163,7 +10950,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.295 \end{figure}
+l.278 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -11172,7 +10959,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.295 \end{figure}
+l.278 \end{figure}
                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -11183,7 +10970,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.295 \end{figure}
+l.278 \end{figure}
                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -11192,12 +10979,12 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 290--296
+Overfull \hbox (20.0pt too wide) in paragraph at lines 273--279
 []
  []
 
 
-Overfull \hbox (166.63983pt too wide) in paragraph at lines 290--296
+Overfull \hbox (166.63983pt too wide) in paragraph at lines 273--279
 []\OML/cmm/m/it/10 odel[]imulink[][]$ 
  []
 
@@ -11212,7 +10999,7 @@ Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
 <write> ...ence `fig::com_model' on page \thepage 
                                                   \space undefined\on@line .
-l.297 In figure \ref{fig::com_model}
+l.280 In figure \ref{fig::com_model}
                                     , the complete system model for a differ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -11221,7 +11008,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig::com_model' on page  undefined on input line 297.
+LaTeX Warning: Reference `fig::com_model' on page  undefined on input line 280.
 
 
 Missing character: There is no , in font nullfont!
@@ -11424,7 +11211,7 @@ Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
 <write> ... Reference `dc_model' on page \thepage 
                                                   \space undefined\on@line .
-l.297 ...em as described in section \ref{dc_model}
+l.280 ...em as described in section \ref{dc_model}
                                                   , are used.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -11433,7 +11220,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `dc_model' on page  undefined on input line 297.
+LaTeX Warning: Reference `dc_model' on page  undefined on input line 280.
 
 Missing character: There is no , in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -11445,22 +11232,22 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 297--298
+Overfull \hbox (20.0pt too wide) in paragraph at lines 280--281
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 297--298
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 280--281
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 297--298
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 280--281
 []
  []
 
 ! Undefined control sequence.
-l.299 \subsection
+l.282 \subsection
                  {DC motors model analysis}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -11490,7 +11277,7 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no s in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 299--300
+Overfull \hbox (20.0pt too wide) in paragraph at lines 282--283
 []
  []
 
@@ -11550,7 +11337,7 @@ Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
 <write> ...ence `fig::com_model' on page \thepage 
                                                   \space undefined\on@line .
-l.301 ... the model in figure \ref{fig::com_model}
+l.284 ... the model in figure \ref{fig::com_model}
                                                   . A step function block is...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -11559,7 +11346,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig::com_model' on page  undefined on input line 301.
+LaTeX Warning: Reference `fig::com_model' on page  undefined on input line 284.
 
 
 Missing character: There is no . in font nullfont!
@@ -11746,12 +11533,12 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 301--302
+Overfull \hbox (20.0pt too wide) in paragraph at lines 284--285
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 301--302
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 284--285
 []
  []
 
@@ -11788,7 +11575,7 @@ Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
 <write> ... Reference `dc_model' on page \thepage 
                                                   \space undefined\on@line .
-l.303 ... model proposed in section \ref{dc_model}
+l.286 ... model proposed in section \ref{dc_model}
                                                    is constructed using only...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -11797,7 +11584,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `dc_model' on page  undefined on input line 303.
+LaTeX Warning: Reference `dc_model' on page  undefined on input line 286.
 
 Missing character: There is no i in font nullfont!
 Missing character: There is no s in font nullfont!
@@ -11941,12 +11728,12 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no k in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 303--304
+Overfull \hbox (20.0pt too wide) in paragraph at lines 286--287
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 303--304
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 286--287
 []
  []
 
@@ -11957,7 +11744,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.305 \begin{figure}
+l.288 \begin{figure}
                     [h]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -11967,7 +11754,7 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.307 \includegraphics
+l.290 \includegraphics
                       [width = 0.7\textwidth]{motor_openl_step}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -11988,7 +11775,7 @@ Missing character: There is no 7 in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.307 \includegraphics[width = 0.7\textwidth]
+l.290 \includegraphics[width = 0.7\textwidth]
                                              {motor_openl_step}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -11997,7 +11784,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.307 \includegraphics[width = 0.7\textwidth]
+l.290 \includegraphics[width = 0.7\textwidth]
                                              {motor_openl_step}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -12015,13 +11802,13 @@ Missing character: There is no r in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.307 ...udegraphics[width = 0.7\textwidth]{motor_
+l.290 ...udegraphics[width = 0.7\textwidth]{motor_
                                                   openl_step}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.307 ...[width = 0.7\textwidth]{motor_openl_step}
+l.290 ...[width = 0.7\textwidth]{motor_openl_step}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -12036,7 +11823,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.308 \caption
+l.291 \caption
               {Step response of DC motor}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -12048,7 +11835,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.310 \end{figure}
+l.293 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -12057,7 +11844,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.310 \end{figure}
+l.293 \end{figure}
                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -12068,7 +11855,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.310 \end{figure}
+l.293 \end{figure}
                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -12077,12 +11864,12 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 305--311
+Overfull \hbox (20.0pt too wide) in paragraph at lines 288--294
 []
  []
 
 
-Overfull \hbox (154.1725pt too wide) in paragraph at lines 305--311
+Overfull \hbox (154.1725pt too wide) in paragraph at lines 288--294
 []\OML/cmm/m/it/10 penl[]tep[][]$ 
  []
 
@@ -12095,7 +11882,7 @@ Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
 <write> ...erence `fig::dc_step' on page \thepage 
                                                   \space undefined\on@line .
-l.312 Figure \ref{fig::dc_step}
+l.295 Figure \ref{fig::dc_step}
                                 is consistent with the expected step respons...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -12104,7 +11891,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig::dc_step' on page  undefined on input line 312.
+LaTeX Warning: Reference `fig::dc_step' on page  undefined on input line 295.
 
 Missing character: There is no i in font nullfont!
 Missing character: There is no s in font nullfont!
@@ -12339,12 +12126,12 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 312--313
+Overfull \hbox (20.0pt too wide) in paragraph at lines 295--296
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 312--313
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 295--296
 []
  []
 
@@ -12355,7 +12142,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.314 \begin{figure}
+l.297 \begin{figure}
                     [h]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -12365,7 +12152,7 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.316 \includegraphics
+l.299 \includegraphics
                       [width = 0.7\textwidth]{Pzmap_dc}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -12386,7 +12173,7 @@ Missing character: There is no 7 in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.316 \includegraphics[width = 0.7\textwidth]
+l.299 \includegraphics[width = 0.7\textwidth]
                                              {Pzmap_dc}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -12395,7 +12182,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.316 \includegraphics[width = 0.7\textwidth]
+l.299 \includegraphics[width = 0.7\textwidth]
                                              {Pzmap_dc}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -12413,13 +12200,13 @@ Missing character: There is no p in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.316 ...udegraphics[width = 0.7\textwidth]{Pzmap_
+l.299 ...udegraphics[width = 0.7\textwidth]{Pzmap_
                                                   dc}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.316 ...graphics[width = 0.7\textwidth]{Pzmap_dc}
+l.299 ...graphics[width = 0.7\textwidth]{Pzmap_dc}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -12434,7 +12221,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.317 \caption
+l.300 \caption
               {Pole-Zero map of DC motor}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -12446,7 +12233,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.319 \end{figure}
+l.302 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -12455,7 +12242,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.319 \end{figure}
+l.302 \end{figure}
                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -12466,7 +12253,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.319 \end{figure}
+l.302 \end{figure}
                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -12475,12 +12262,12 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 314--320
+Overfull \hbox (20.0pt too wide) in paragraph at lines 297--303
 []
  []
 
 
-Overfull \hbox (136.75148pt too wide) in paragraph at lines 314--320
+Overfull \hbox (136.75148pt too wide) in paragraph at lines 297--303
 []\OML/cmm/m/it/10 c[][]$ 
  []
 
@@ -12497,7 +12284,7 @@ Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
 <write> ...eference `fig::dc_pz' on page \thepage 
                                                   \space undefined\on@line .
-l.321 From figure \ref{fig::dc_pz}
+l.304 From figure \ref{fig::dc_pz}
                                   , it is clear that the open-loop subsystem...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -12506,7 +12293,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig::dc_pz' on page  undefined on input line 321.
+LaTeX Warning: Reference `fig::dc_pz' on page  undefined on input line 304.
 
 Missing character: There is no , in font nullfont!
 Missing character: There is no i in font nullfont!
@@ -12764,12 +12551,12 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 321--322
+Overfull \hbox (20.0pt too wide) in paragraph at lines 304--305
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 321--322
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 304--305
 []
  []
 
@@ -12993,12 +12780,12 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 323--324
+Overfull \hbox (20.0pt too wide) in paragraph at lines 306--307
 []
  []
 
 ! Undefined control sequence.
-l.325 \subsection
+l.308 \subsection
                  {Kinematics model analysis} \label{kin_analysis}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -13030,7 +12817,7 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no s in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 325--326
+Overfull \hbox (20.0pt too wide) in paragraph at lines 308--309
 []
  []
 
@@ -13060,7 +12847,7 @@ Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
 <write> ...Reference `kin_model' on page \thepage 
                                                   \space undefined\on@line .
-l.327 We discussed in subsection \ref{kin_model}
+l.310 We discussed in subsection \ref{kin_model}
                                                  how small fluctuation in th...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -13069,7 +12856,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `kin_model' on page  undefined on input line 327.
+LaTeX Warning: Reference `kin_model' on page  undefined on input line 310.
 
 Missing character: There is no h in font nullfont!
 Missing character: There is no o in font nullfont!
@@ -13239,223 +13026,15 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 327--328
+Overfull \hbox (20.0pt too wide) in paragraph at lines 310--311
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 327--328
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 310--311
 []
  []
 
-
-! LaTeX Error: The font size command \normalsize is not defined:
-               there is probably something wrong with the class file.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.329 \newpage
-              
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[2
-! Undefined control sequence.
-<write> \newlabel{eq15}{{12}{\thepage 
-                                      }}
-l.329 \newpage
-              
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{eq15}{{12}{}}
-! Undefined control sequence.
-<write> \newlabel{eq16}{{}{\thepage 
-                                    }}
-l.329 \newpage
-              
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{eq16}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{list_v}{{}{\thepage 
-                                      }}
-l.329 \newpage
-              
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{list_v}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{eq17}{{13}{\thepage 
-                                      }}
-l.329 \newpage
-              
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{eq17}{{13}{}}
-! Undefined control sequence.
-<write> \newlabel{fig::orientation}{{}{\thepage 
-                                                }}
-l.329 \newpage
-              
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{fig::orientation}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{eq18}{{14}{\thepage 
-                                      }}
-l.329 \newpage
-              
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{eq18}{{14}{}}
-! Undefined control sequence.
-<write> \newlabel{eq19}{{}{\thepage 
-                                    }}
-l.329 \newpage
-              
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{eq19}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{eq20}{{}{\thepage 
-                                    }}
-l.329 \newpage
-              
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{eq20}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{kin_para}{{}{\thepage 
-                                        }}
-l.329 \newpage
-              
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{kin_para}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{fig::diff_simulink}{{}{\thepage 
-                                                  }}
-l.329 \newpage
-              
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{fig::diff_simulink}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{fig::pos_sub}{{}{\thepage 
-                                            }}
-l.329 \newpage
-              
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{fig::pos_sub}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{fig::pos_model}{{}{\thepage 
-                                              }}
-l.329 \newpage
-              
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{fig::pos_model}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{fig::com_model}{{}{\thepage 
-                                              }}
-l.329 \newpage
-              
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{fig::com_model}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{fig::dc_step}{{}{\thepage 
-                                            }}
-l.329 \newpage
-              
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{fig::dc_step}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{fig::dc_pz}{{}{\thepage 
-                                          }}
-l.329 \newpage
-              
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{fig::dc_pz}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{kin_analysis}{{}{\thepage 
-                                            }}
-l.329 \newpage
-              
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{kin_analysis}{{}{}}
-]
 
 ! LaTeX Error: Environment figure undefined.
 
@@ -13463,7 +13042,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.331 \begin{figure}
+l.312 \begin{figure}
                     [h]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -13472,9 +13051,50 @@ or  <return>  to continue without it.
 Missing character: There is no [ in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no ] in font nullfont!
+
+! LaTeX Error: Environment subfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.314     \begin{subfigure}
+                           [h]{0.47\textwidth}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.314     \begin{subfigure}[h]{0.47\textwidth}
+                                              
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.314     \begin{subfigure}[h]{0.47\textwidth}
+                                              
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
 ! Undefined control sequence.
-l.333 \includegraphics
-                      [width = 0.7\textwidth]{x_y_equalV}
+l.315         \includegraphics
+                              [width=\textwidth]{x_y_equalV}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -13488,14 +13108,11 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no = in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 7 in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.333 \includegraphics[width = 0.7\textwidth]
-                                             {x_y_equalV}
+l.315         \includegraphics[width=\textwidth]
+                                                {x_y_equalV}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -13503,8 +13120,8 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.333 \includegraphics[width = 0.7\textwidth]
-                                             {x_y_equalV}
+l.315         \includegraphics[width=\textwidth]
+                                                {x_y_equalV}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -13517,18 +13134,18 @@ Missing character: There is no x in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.333 \includegraphics[width = 0.7\textwidth]{x_
-                                                y_equalV}
+l.315 ...    \includegraphics[width=\textwidth]{x_
+                                                  y_equalV}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Double subscript.
-l.333 \includegraphics[width = 0.7\textwidth]{x_y_
+l.315 ...  \includegraphics[width=\textwidth]{x_y_
                                                   equalV}
 I treat `x_1_2' essentially like `x_1{}_2'.
 
 ! Extra }, or forgotten $.
-l.333 ...aphics[width = 0.7\textwidth]{x_y_equalV}
+l.315 ...udegraphics[width=\textwidth]{x_y_equalV}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -13543,20 +13160,20 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.334 \caption
-              {XY-graph for equal velocities}
+l.316         \caption
+                      {XY-graph}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-! LaTeX Error: \begin{document} ended by \end{figure}.
+! LaTeX Error: \begin{document} ended by \end{subfigure}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.336 \end{figure}
-                  
+l.318     \end{subfigure}
+                         
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -13564,8 +13181,8 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.336 \end{figure}
-                  
+l.318     \end{subfigure}
+                         
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
@@ -13575,8 +13192,8 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.336 \end{figure}
-                  
+l.318     \end{subfigure}
+                         
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
@@ -13584,13 +13201,206 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 331--337
+! LaTeX Error: Environment subfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.321     \begin{subfigure}
+                           [h]{0.47\textwidth}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.321     \begin{subfigure}[h]{0.47\textwidth}
+                                              
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.321     \begin{subfigure}[h]{0.47\textwidth}
+                                              
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Undefined control sequence.
+l.322         \includegraphics
+                              [width=\textwidth]{AS_equalV}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.322         \includegraphics[width=\textwidth]
+                                                {AS_equalV}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.322         \includegraphics[width=\textwidth]
+                                                {AS_equalV}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no S in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.322 ...   \includegraphics[width=\textwidth]{AS_
+                                                  equalV}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.322 ...ludegraphics[width=\textwidth]{AS_equalV}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.323         \caption
+                      {Turning speed}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{subfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.325     \end{subfigure}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.325     \end{subfigure}
+                         
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.325     \end{subfigure}
+                         
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.328     \caption
+                  {For equal velocities}\label{fig:eqV}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no F in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.329 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 312--330
 []
  []
 
 
-Overfull \hbox (172.82811pt too wide) in paragraph at lines 331--337
-[][]\OML/cmm/m/it/10 qualV[][]$ 
+Overfull \hbox (91.48627pt too wide) in paragraph at lines 312--330
+[][]\OML/cmm/m/it/10 qualV[][]$
+ []
+
+
+Overfull \hbox (93.92465pt too wide) in paragraph at lines 312--330
+[]\OML/cmm/m/it/10 qualV[][]$
  []
 
 Missing character: There is no I in font nullfont!
@@ -13602,10 +13412,10 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
-<write> ...erence `fig::v_l=v_r' on page \thepage 
+<write> ...ference `fig:v_l=v_r' on page \thepage 
                                                   \space undefined\on@line .
-l.338 In figure \ref{fig::v_l=v_r}
-                                  , when both wheel velocities match ($\bold...
+l.331 In figure \ref{fig:v_l=v_r}
+                                 , when both wheel velocities match ($\bolds...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -13613,7 +13423,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig::v_l=v_r' on page  undefined on input line 338.
+LaTeX Warning: Reference `fig:v_l=v_r' on page  undefined on input line 331.
 
 Missing character: There is no , in font nullfont!
 Missing character: There is no w in font nullfont!
@@ -13648,7 +13458,7 @@ Missing character: There is no ( in font nullfont!
 ! Undefined control sequence.
 <recently read> \boldsymbol 
                             
-l.338 ...both wheel velocities match ($\boldsymbol
+l.331 ...both wheel velocities match ($\boldsymbol
                                                   {v_r = v_l}$), the traject...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -13704,151 +13514,18 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 338--339
+Overfull \hbox (20.0pt too wide) in paragraph at lines 331--332
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 338--339
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 331--332
 []
  []
 
 
-Overfull \hbox (30.52539pt too wide) in paragraph at lines 338--339
+Overfull \hbox (30.52539pt too wide) in paragraph at lines 331--332
 []$
- []
-
-
-! LaTeX Error: Environment figure undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.340 \begin{figure}
-                    [h]
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-Missing character: There is no [ in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no ] in font nullfont!
-! Undefined control sequence.
-l.342 \includegraphics
-                      [width = 0.7\textwidth]{AS_equalV}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no [ in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no = in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 7 in font nullfont!
-! Missing number, treated as zero.
-<to be read again> 
-                   ]
-l.342 \includegraphics[width = 0.7\textwidth]
-                                             {AS_equalV}
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   ]
-l.342 \includegraphics[width = 0.7\textwidth]
-                                             {AS_equalV}
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-Missing character: There is no ] in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no S in font nullfont!
-! Missing $ inserted.
-<inserted text> 
-                $
-l.342 \includegraphics[width = 0.7\textwidth]{AS_
-                                                 equalV}
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-l.342 ...raphics[width = 0.7\textwidth]{AS_equalV}
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-
-! LaTeX Error: \caption outside float.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.343 \caption
-              {Turning speed for equal velocities}
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: \begin{document} ended by \end{figure}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.345 \end{figure}
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.345 \end{figure}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.345 \end{figure}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 340--346
-[]
- []
-
-
-Overfull \hbox (173.59982pt too wide) in paragraph at lines 340--346
-[]\OML/cmm/m/it/10 qualV[][]$ 
  []
 
 Missing character: There is no A in font nullfont!
@@ -13890,9 +13567,9 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
-<write> ...rence `fig::Wv_l=v_r' on page \thepage 
+<write> ...erence `fig:Wv_l=v_r' on page \thepage 
                                                   \space undefined\on@line .
-l.347 ...rning speed in figure \ref{fig::Wv_l=v_r}
+l.333 ...urning speed in figure \ref{fig:Wv_l=v_r}
                                                    remains zero for as long ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -13901,7 +13578,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig::Wv_l=v_r' on page  undefined on input line 347.
+LaTeX Warning: Reference `fig:Wv_l=v_r' on page  undefined on input line 333.
 
 Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -13956,15 +13633,247 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 347--348
+Overfull \hbox (20.0pt too wide) in paragraph at lines 333--334
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 347--348
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 333--334
 []
  []
 
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.335 \newpage
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[2
+! Undefined control sequence.
+<write> \newlabel{eq15}{{12}{\thepage 
+                                      }}
+l.335 \newpage
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{eq15}{{12}{}}
+! Undefined control sequence.
+<write> \newlabel{eq16}{{}{\thepage 
+                                    }}
+l.335 \newpage
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{eq16}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{list_v}{{}{\thepage 
+                                      }}
+l.335 \newpage
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{list_v}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{eq17}{{13}{\thepage 
+                                      }}
+l.335 \newpage
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{eq17}{{13}{}}
+! Undefined control sequence.
+<write> \newlabel{fig::orientation}{{}{\thepage 
+                                                }}
+l.335 \newpage
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig::orientation}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{eq18}{{14}{\thepage 
+                                      }}
+l.335 \newpage
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{eq18}{{14}{}}
+! Undefined control sequence.
+<write> \newlabel{eq19}{{}{\thepage 
+                                    }}
+l.335 \newpage
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{eq19}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{eq20}{{}{\thepage 
+                                    }}
+l.335 \newpage
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{eq20}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{fig::diff_simulink}{{}{\thepage 
+                                                  }}
+l.335 \newpage
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig::diff_simulink}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{fig::pos_sub}{{}{\thepage 
+                                            }}
+l.335 \newpage
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig::pos_sub}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{fig::pos_model}{{}{\thepage 
+                                              }}
+l.335 \newpage
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig::pos_model}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{fig::com_model}{{}{\thepage 
+                                              }}
+l.335 \newpage
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig::com_model}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{fig::dc_step}{{}{\thepage 
+                                            }}
+l.335 \newpage
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig::dc_step}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{fig::dc_pz}{{}{\thepage 
+                                          }}
+l.335 \newpage
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig::dc_pz}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{kin_analysis}{{}{\thepage 
+                                            }}
+l.335 \newpage
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{kin_analysis}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{fig:v_l=v_r}{{}{\thepage 
+                                           }}
+l.335 \newpage
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig:v_l=v_r}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{fig:Wv_l=v_r}{{}{\thepage 
+                                            }}
+l.335 \newpage
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig:Wv_l=v_r}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{fig:eqV}{{}{\thepage 
+                                       }}
+l.335 \newpage
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig:eqV}{{}{}}
+]
 Missing character: There is no T in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -14066,50 +13975,10 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no ) in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 349--350
+Overfull \hbox (20.0pt too wide) in paragraph at lines 337--338
 []
  []
 
-
-! LaTeX Error: The font size command \normalsize is not defined:
-               there is probably something wrong with the class file.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.351 \newpage
-              
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[3
-! Undefined control sequence.
-<write> \newlabel{fig::v_l=v_r}{{}{\thepage 
-                                            }}
-l.351 \newpage
-              
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{fig::v_l=v_r}{{}{}}
-! Undefined control sequence.
-<write> \newlabel{fig::Wv_l=v_r}{{}{\thepage 
-                                             }}
-l.351 \newpage
-              
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{fig::Wv_l=v_r}{{}{}}
-]
 
 ! LaTeX Error: Environment figure undefined.
 
@@ -14117,7 +13986,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.353 \begin{figure}
+l.339 \begin{figure}
                     [h]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -14127,7 +13996,7 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.355 \includegraphics
+l.341 \includegraphics
                       [width = 0.7\textwidth]{x_y_zeroV}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -14148,7 +14017,7 @@ Missing character: There is no 7 in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.355 \includegraphics[width = 0.7\textwidth]
+l.341 \includegraphics[width = 0.7\textwidth]
                                              {x_y_zeroV}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -14157,7 +14026,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.355 \includegraphics[width = 0.7\textwidth]
+l.341 \includegraphics[width = 0.7\textwidth]
                                              {x_y_zeroV}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -14171,18 +14040,18 @@ Missing character: There is no x in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.355 \includegraphics[width = 0.7\textwidth]{x_
+l.341 \includegraphics[width = 0.7\textwidth]{x_
                                                 y_zeroV}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Double subscript.
-l.355 \includegraphics[width = 0.7\textwidth]{x_y_
+l.341 \includegraphics[width = 0.7\textwidth]{x_y_
                                                   zeroV}
 I treat `x_1_2' essentially like `x_1{}_2'.
 
 ! Extra }, or forgotten $.
-l.355 ...raphics[width = 0.7\textwidth]{x_y_zeroV}
+l.341 ...raphics[width = 0.7\textwidth]{x_y_zeroV}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -14197,7 +14066,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.356 \caption
+l.342 \caption
               {XY-graph for zero velocity left wheel}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -14209,7 +14078,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.358 \end{figure}
+l.344 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -14218,7 +14087,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.358 \end{figure}
+l.344 \end{figure}
                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -14229,7 +14098,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.358 \end{figure}
+l.344 \end{figure}
                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -14238,12 +14107,12 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 353--359
+Overfull \hbox (20.0pt too wide) in paragraph at lines 339--345
 []
  []
 
 
-Overfull \hbox (199.7094pt too wide) in paragraph at lines 353--359
+Overfull \hbox (199.7094pt too wide) in paragraph at lines 339--345
 [][]\OML/cmm/m/it/10 eroV[][]$ 
  []
 
@@ -14397,12 +14266,12 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 360--361
+Overfull \hbox (20.0pt too wide) in paragraph at lines 346--347
 []
  []
 
 
-Overfull \hbox (6.38612pt too wide) in paragraph at lines 360--361
+Overfull \hbox (6.38612pt too wide) in paragraph at lines 346--347
 []$ 
  []
 
@@ -14413,7 +14282,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.362 \begin{figure}
+l.348 \begin{figure}
                     [h]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -14429,7 +14298,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.364     \begin{subfigure}
+l.350     \begin{subfigure}
                            [h]{0.47\textwidth}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -14445,7 +14314,7 @@ Missing character: There is no 7 in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    }
-l.364     \begin{subfigure}[h]{0.47\textwidth}
+l.350     \begin{subfigure}[h]{0.47\textwidth}
                                               
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -14454,7 +14323,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    }
-l.364     \begin{subfigure}[h]{0.47\textwidth}
+l.350     \begin{subfigure}[h]{0.47\textwidth}
                                               
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -14464,7 +14333,7 @@ delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
 ! Undefined control sequence.
-l.365         \includegraphics
+l.351         \includegraphics
                               [width=\textwidth]{turning_speed_zeroV}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -14482,7 +14351,7 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.365         \includegraphics[width=\textwidth]
+l.351         \includegraphics[width=\textwidth]
                                                 {turning_speed_zeroV}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -14491,7 +14360,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.365         \includegraphics[width=\textwidth]
+l.351         \includegraphics[width=\textwidth]
                                                 {turning_speed_zeroV}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -14511,13 +14380,13 @@ Missing character: There is no g in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.365 ...ncludegraphics[width=\textwidth]{turning_
+l.351 ...ncludegraphics[width=\textwidth]{turning_
                                                   speed_zeroV}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.365 ...cs[width=\textwidth]{turning_speed_zeroV}
+l.351 ...cs[width=\textwidth]{turning_speed_zeroV}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -14532,7 +14401,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.366         \caption
+l.352         \caption
                       {Turning speed}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -14544,7 +14413,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.368     \end{subfigure}
+l.354     \end{subfigure}
                          
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -14553,7 +14422,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.368     \end{subfigure}
+l.354     \end{subfigure}
                          
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -14564,7 +14433,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.368     \end{subfigure}
+l.354     \end{subfigure}
                          
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -14579,7 +14448,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.371     \begin{subfigure}
+l.357     \begin{subfigure}
                            [h]{0.47\textwidth}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -14595,7 +14464,7 @@ Missing character: There is no 7 in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    }
-l.371     \begin{subfigure}[h]{0.47\textwidth}
+l.357     \begin{subfigure}[h]{0.47\textwidth}
                                               
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -14604,7 +14473,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    }
-l.371     \begin{subfigure}[h]{0.47\textwidth}
+l.357     \begin{subfigure}[h]{0.47\textwidth}
                                               
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -14614,7 +14483,7 @@ delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
 ! Undefined control sequence.
-l.372         \includegraphics
+l.358         \includegraphics
                               [width=\textwidth]{turning_rad_zeroV}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -14632,7 +14501,7 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.372         \includegraphics[width=\textwidth]
+l.358         \includegraphics[width=\textwidth]
                                                 {turning_rad_zeroV}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -14641,7 +14510,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.372         \includegraphics[width=\textwidth]
+l.358         \includegraphics[width=\textwidth]
                                                 {turning_rad_zeroV}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -14661,13 +14530,13 @@ Missing character: There is no g in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.372 ...ncludegraphics[width=\textwidth]{turning_
+l.358 ...ncludegraphics[width=\textwidth]{turning_
                                                   rad_zeroV}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.372 ...hics[width=\textwidth]{turning_rad_zeroV}
+l.358 ...hics[width=\textwidth]{turning_rad_zeroV}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -14682,7 +14551,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.373         \caption
+l.359         \caption
                       {Turning radius}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -14694,7 +14563,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.375     \end{subfigure}
+l.361     \end{subfigure}
                          
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -14703,7 +14572,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.375     \end{subfigure}
+l.361     \end{subfigure}
                          
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -14714,7 +14583,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.375     \end{subfigure}
+l.361     \end{subfigure}
                          
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -14729,7 +14598,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.378     \caption
+l.364     \caption
                   {For zero velocity left wheel}\label{fig:zeroV}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -14765,24 +14634,24 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.379 \end{figure}
+l.365 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 362--380
+Overfull \hbox (20.0pt too wide) in paragraph at lines 348--366
 []
  []
 
 
-Overfull \hbox (113.3401pt too wide) in paragraph at lines 362--380
+Overfull \hbox (113.3401pt too wide) in paragraph at lines 348--366
 []\OML/cmm/m/it/10 peed[]eroV[][]$
  []
 
 
-Overfull \hbox (109.33733pt too wide) in paragraph at lines 362--380
+Overfull \hbox (109.33733pt too wide) in paragraph at lines 348--366
 []\OML/cmm/m/it/10 ad[]eroV[][]$
  []
 
@@ -14797,7 +14666,7 @@ Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
 <write> ...eference `fig:TzeroV' on page \thepage 
                                                   \space undefined\on@line .
-l.381 In figure \ref{fig:TzeroV}
+l.367 In figure \ref{fig:TzeroV}
                                  it takes 1.5 seconds to reach constant turn...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -14806,7 +14675,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig:TzeroV' on page  undefined on input line 381.
+LaTeX Warning: Reference `fig:TzeroV' on page  undefined on input line 367.
 
 Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -14869,7 +14738,7 @@ Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
 <write> ...eference `fig:RzeroV' on page \thepage 
                                                   \space undefined\on@line .
-l.381 ...g speed, while in figure \ref{fig:RzeroV}
+l.367 ...g speed, while in figure \ref{fig:RzeroV}
                                                   , the turning radius is ex...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -14878,7 +14747,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig:RzeroV' on page  undefined on input line 381.
+LaTeX Warning: Reference `fig:RzeroV' on page  undefined on input line 367.
 
 Missing character: There is no , in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -14994,17 +14863,17 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 381--382
+Overfull \hbox (20.0pt too wide) in paragraph at lines 367--368
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 381--382
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 367--368
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 381--382
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 367--368
 []
  []
 
@@ -15189,7 +15058,7 @@ Missing character: There is no , in font nullfont!
 ! Undefined control sequence.
 <recently read> \boldsymbol 
                             
-l.384 ...ffer only by 0.1 V. That is, $\boldsymbol
+l.370 ...ffer only by 0.1 V. That is, $\boldsymbol
                                                   {v_r \approx v_l}$.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -15199,12 +15068,12 @@ and I'll forget about whatever was undefined.
 
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 384--385
+Overfull \hbox (20.0pt too wide) in paragraph at lines 370--371
 []
  []
 
 
-Overfull \hbox (30.52539pt too wide) in paragraph at lines 384--385
+Overfull \hbox (30.52539pt too wide) in paragraph at lines 370--371
 []$ 
  []
 
@@ -15217,10 +15086,10 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
-<write> ...erence `fig::approxV' on page \thepage 
+<write> ...ference `fig:approxV' on page \thepage 
                                                   \space undefined\on@line .
-l.386 In figure \ref{fig::approxV}
-                                   we can clearly see that the trajectory th...
+l.372 In figure \ref{fig:approxV}
+                                  we can clearly see that the trajectory the...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -15228,7 +15097,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig::approxV' on page  undefined on input line 386.
+LaTeX Warning: Reference `fig:approxV' on page  undefined on input line 372.
 
 Missing character: There is no w in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -15413,7 +15282,7 @@ Missing character: There is no ( in font nullfont!
 ! Undefined control sequence.
 <write> ...erence `fig:RapproxV' on page \thepage 
                                                   \space undefined\on@line .
-l.386 ... large turning radius (\ref{fig:RapproxV}
+l.372 ... large turning radius (\ref{fig:RapproxV}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -15422,21 +15291,21 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig:RapproxV' on page  undefined on input line 386.
+LaTeX Warning: Reference `fig:RapproxV' on page  undefined on input line 372.
 
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 386--387
+Overfull \hbox (20.0pt too wide) in paragraph at lines 372--373
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 386--387
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 372--373
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 386--387
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 372--373
 [] 
  []
 
@@ -15448,17 +15317,17 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.388 \newpage
+l.374 \newpage
               
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[4
+[3
 ! Undefined control sequence.
 <write> \newlabel{fig::ZeroV}{{}{\thepage 
                                           }}
-l.388 \newpage
+l.374 \newpage
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -15470,7 +15339,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <write> \newlabel{fig:TzeroV}{{}{\thepage 
                                           }}
-l.388 \newpage
+l.374 \newpage
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -15482,7 +15351,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <write> \newlabel{fig:RzeroV}{{}{\thepage 
                                           }}
-l.388 \newpage
+l.374 \newpage
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -15494,7 +15363,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <write> \newlabel{fig:zeroV}{{}{\thepage 
                                          }}
-l.388 \newpage
+l.374 \newpage
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -15511,7 +15380,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.390 \begin{figure}
+l.376 \begin{figure}
                     [h]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -15527,7 +15396,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.392     \begin{subfigure}
+l.378     \begin{subfigure}
                            [h]{0.47\textwidth}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -15543,7 +15412,7 @@ Missing character: There is no 7 in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    }
-l.392     \begin{subfigure}[h]{0.47\textwidth}
+l.378     \begin{subfigure}[h]{0.47\textwidth}
                                               
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -15552,7 +15421,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    }
-l.392     \begin{subfigure}[h]{0.47\textwidth}
+l.378     \begin{subfigure}[h]{0.47\textwidth}
                                               
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -15562,7 +15431,7 @@ delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
 ! Undefined control sequence.
-l.393         \includegraphics
+l.379         \includegraphics
                               [width=\textwidth]{XY_approxV}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -15580,7 +15449,7 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.393         \includegraphics[width=\textwidth]
+l.379         \includegraphics[width=\textwidth]
                                                 {XY_approxV}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -15589,7 +15458,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.393         \includegraphics[width=\textwidth]
+l.379         \includegraphics[width=\textwidth]
                                                 {XY_approxV}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -15604,13 +15473,13 @@ Missing character: There is no Y in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.393 ...   \includegraphics[width=\textwidth]{XY_
+l.379 ...   \includegraphics[width=\textwidth]{XY_
                                                   approxV}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.393 ...udegraphics[width=\textwidth]{XY_approxV}
+l.379 ...udegraphics[width=\textwidth]{XY_approxV}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -15625,7 +15494,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.394         \caption
+l.380         \caption
                       {XY-graph}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -15637,7 +15506,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.396     \end{subfigure}
+l.382     \end{subfigure}
                          
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -15646,7 +15515,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.396     \end{subfigure}
+l.382     \end{subfigure}
                          
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -15657,7 +15526,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.396     \end{subfigure}
+l.382     \end{subfigure}
                          
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -15672,7 +15541,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.399     \begin{subfigure}
+l.385     \begin{subfigure}
                            [h]{0.47\textwidth}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -15688,7 +15557,7 @@ Missing character: There is no 7 in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    }
-l.399     \begin{subfigure}[h]{0.47\textwidth}
+l.385     \begin{subfigure}[h]{0.47\textwidth}
                                               
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -15697,7 +15566,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    }
-l.399     \begin{subfigure}[h]{0.47\textwidth}
+l.385     \begin{subfigure}[h]{0.47\textwidth}
                                               
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -15707,7 +15576,7 @@ delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
 ! Undefined control sequence.
-l.400         \includegraphics
+l.386         \includegraphics
                               [width=\textwidth]{R_approxV}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -15725,7 +15594,7 @@ Missing character: There is no = in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.400         \includegraphics[width=\textwidth]
+l.386         \includegraphics[width=\textwidth]
                                                 {R_approxV}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -15734,7 +15603,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.400         \includegraphics[width=\textwidth]
+l.386         \includegraphics[width=\textwidth]
                                                 {R_approxV}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -15748,13 +15617,13 @@ Missing character: There is no R in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.400 ...    \includegraphics[width=\textwidth]{R_
+l.386 ...    \includegraphics[width=\textwidth]{R_
                                                   approxV}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.400 ...ludegraphics[width=\textwidth]{R_approxV}
+l.386 ...ludegraphics[width=\textwidth]{R_approxV}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -15769,7 +15638,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.401         \caption
+l.387         \caption
                       {Turning radius}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -15781,7 +15650,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.403     \end{subfigure}
+l.389     \end{subfigure}
                          
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -15790,7 +15659,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.403     \end{subfigure}
+l.389     \end{subfigure}
                          
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -15801,7 +15670,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.403     \end{subfigure}
+l.389     \end{subfigure}
                          
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -15816,7 +15685,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.406     \caption
+l.392     \caption
                   {For different velocities}\label{fig:approxV}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -15850,24 +15719,24 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.407 \end{figure}
+l.393 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 390--408
+Overfull \hbox (20.0pt too wide) in paragraph at lines 376--394
 []
  []
 
 
-Overfull \hbox (93.62347pt too wide) in paragraph at lines 390--408
+Overfull \hbox (93.62347pt too wide) in paragraph at lines 376--394
 []\OML/cmm/m/it/10 pproxV[][]$
  []
 
 
-Overfull \hbox (105.76979pt too wide) in paragraph at lines 390--408
+Overfull \hbox (105.76979pt too wide) in paragraph at lines 376--394
 []\OML/cmm/m/it/10 pproxV[][]$
  []
 
@@ -15985,12 +15854,12 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 409--410
+Overfull \hbox (20.0pt too wide) in paragraph at lines 395--396
 []
  []
 
 ! Undefined control sequence.
-l.411 \section
+l.397 \section
               {Cruise Control}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -16012,7 +15881,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no l in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 411--412
+Overfull \hbox (20.0pt too wide) in paragraph at lines 397--398
 []
  []
 
@@ -16071,12 +15940,12 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 413--414
+Overfull \hbox (20.0pt too wide) in paragraph at lines 399--400
 []
  []
 
 ! Undefined control sequence.
-l.415 \subsection
+l.401 \subsection
                  {PID controller}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -16098,7 +15967,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 415--416
+Overfull \hbox (20.0pt too wide) in paragraph at lines 401--402
 []
  []
 
@@ -16294,7 +16163,7 @@ Missing character: There is no h in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 417--418
+Overfull \hbox (20.0pt too wide) in paragraph at lines 403--404
 []
  []
 
@@ -17172,7 +17041,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.420 ... error value will be generated:\cite{PID}
+l.406 ... error value will be generated:\cite{PID}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -17181,26 +17050,26 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `PID' on page  undefined on input line 420.
+LaTeX Warning: Citation `PID' on page  undefined on input line 406.
 
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 419--421
+Overfull \hbox (20.0pt too wide) in paragraph at lines 405--407
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 419--421
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 405--407
 [] 
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 422--422
+Overfull \hbox (20.0pt too wide) in paragraph at lines 408--408
 [] 
  []
 
 
-Overfull \hbox (151.53743pt too wide) detected at line 424
+Overfull \hbox (151.53743pt too wide) detected at line 410
 \OML/cmm/m/it/10 error \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 setpoint \OMS/cmsy/m/
 n/10   \OML/cmm/m/it/10 encoder reading
  []
@@ -17441,17 +17310,17 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 426--427
+Overfull \hbox (20.0pt too wide) in paragraph at lines 412--413
 []
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 428--428
+Overfull \hbox (20.0pt too wide) in paragraph at lines 414--414
 [] 
  []
 
 
-Overfull \hbox (38.96738pt too wide) detected at line 430
+Overfull \hbox (38.96738pt too wide) detected at line 416
 \OML/cmm/m/it/10 C \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 eK[]
  []
 
@@ -17738,32 +17607,32 @@ Missing character: There is no ( in font nullfont!
 Missing character: There is no ) in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 432--434
+Overfull \hbox (20.0pt too wide) in paragraph at lines 418--420
 []
  []
 
 
-Overfull \hbox (13.1154pt too wide) in paragraph at lines 432--434
+Overfull \hbox (13.1154pt too wide) in paragraph at lines 418--420
 \OML/cmm/m/it/10 K[]$
  []
 
 
-Overfull \hbox (13.1154pt too wide) in paragraph at lines 432--434
+Overfull \hbox (13.1154pt too wide) in paragraph at lines 418--420
 \OML/cmm/m/it/10 K[]$
  []
 
 
-Overfull \hbox (10.35698pt too wide) in paragraph at lines 432--434
+Overfull \hbox (10.35698pt too wide) in paragraph at lines 418--420
 []$ 
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 435--435
+Overfull \hbox (20.0pt too wide) in paragraph at lines 421--421
 [] 
  []
 
 
-Overfull \hbox (72.16223pt too wide) detected at line 437
+Overfull \hbox (72.16223pt too wide) detected at line 423
 \OML/cmm/m/it/10 C \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 eK[] \OT1/cmr/m/n/10 + []
 \OML/cmm/m/it/10 K[]
  []
@@ -18040,28 +17909,28 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 439--441
+Overfull \hbox (20.0pt too wide) in paragraph at lines 425--427
 []
  []
 
 
-Overfull \hbox (13.15593pt too wide) in paragraph at lines 439--441
+Overfull \hbox (13.15593pt too wide) in paragraph at lines 425--427
 \OML/cmm/m/it/10 K[]$
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 442--442
+Overfull \hbox (20.0pt too wide) in paragraph at lines 428--428
 [] 
  []
 
 
-Overfull \hbox (123.75536pt too wide) detected at line 444
+Overfull \hbox (123.75536pt too wide) detected at line 430
 \OML/cmm/m/it/10 C \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 eK[] \OT1/cmr/m/n/10 + \O
 ML/cmm/m/it/10 K[] [][] e dt \OT1/cmr/m/n/10 + []\OML/cmm/m/it/10 K[]
  []
 
 ! Undefined control sequence.
-l.446 \subsection
+l.432 \subsection
                  {Simulink Closed-loop Response}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -18097,7 +17966,7 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no e in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 446--447
+Overfull \hbox (20.0pt too wide) in paragraph at lines 432--433
 []
  []
 
@@ -18234,7 +18103,7 @@ Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
 <write> ... Reference `dc_model' on page \thepage 
                                                   \space undefined\on@line .
-l.448 ... motors model from section \ref{dc_model}
+l.434 ... motors model from section \ref{dc_model}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -18243,16 +18112,16 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `dc_model' on page  undefined on input line 448.
+LaTeX Warning: Reference `dc_model' on page  undefined on input line 434.
 
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 448--449
+Overfull \hbox (20.0pt too wide) in paragraph at lines 434--435
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 448--449
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 434--435
 [] 
  []
 
@@ -18263,7 +18132,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.450 \begin{figure}
+l.436 \begin{figure}
                     [h]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -18273,7 +18142,7 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.452 \includegraphics
+l.438 \includegraphics
                       [width = 0.9\textwidth]{PID_motor}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -18294,7 +18163,7 @@ Missing character: There is no 9 in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.452 \includegraphics[width = 0.9\textwidth]
+l.438 \includegraphics[width = 0.9\textwidth]
                                              {PID_motor}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -18303,7 +18172,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.452 \includegraphics[width = 0.9\textwidth]
+l.438 \includegraphics[width = 0.9\textwidth]
                                              {PID_motor}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -18319,13 +18188,13 @@ Missing character: There is no D in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.452 \includegraphics[width = 0.9\textwidth]{PID_
+l.438 \includegraphics[width = 0.9\textwidth]{PID_
                                                   motor}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.452 ...raphics[width = 0.9\textwidth]{PID_motor}
+l.438 ...raphics[width = 0.9\textwidth]{PID_motor}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -18340,7 +18209,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.453 \caption
+l.439 \caption
               {Closed-loop motor subsystem}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -18352,7 +18221,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.455 \end{figure}
+l.441 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -18361,7 +18230,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.455 \end{figure}
+l.441 \end{figure}
                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -18372,7 +18241,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.455 \end{figure}
+l.441 \end{figure}
                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -18381,12 +18250,12 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 450--456
+Overfull \hbox (20.0pt too wide) in paragraph at lines 436--442
 []
  []
 
 
-Overfull \hbox (159.52132pt too wide) in paragraph at lines 450--456
+Overfull \hbox (159.52132pt too wide) in paragraph at lines 436--442
 []\OML/cmm/m/it/10 otor[][]$ 
  []
 
@@ -18401,7 +18270,7 @@ Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
 <write> ...ence `fig::PID_motor' on page \thepage 
                                                   \space undefined\on@line .
-l.457 In figure \ref{fig::PID_motor}
+l.443 In figure \ref{fig::PID_motor}
                                     , the closed-loop control system is show...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -18410,7 +18279,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig::PID_motor' on page  undefined on input line 457.
+LaTeX Warning: Reference `fig::PID_motor' on page  undefined on input line 443.
 
 
 Missing character: There is no , in font nullfont!
@@ -18615,12 +18484,12 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no ) in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 457--458
+Overfull \hbox (20.0pt too wide) in paragraph at lines 443--444
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 457--458
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 443--444
 []
  []
 
@@ -18631,7 +18500,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.459 \begin{figure}
+l.445 \begin{figure}
                     [h]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -18641,7 +18510,7 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.461 \includegraphics
+l.447 \includegraphics
                       [width = 0.7\textwidth]{CL_OL_comp}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -18662,7 +18531,7 @@ Missing character: There is no 7 in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.461 \includegraphics[width = 0.7\textwidth]
+l.447 \includegraphics[width = 0.7\textwidth]
                                              {CL_OL_comp}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -18671,7 +18540,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.461 \includegraphics[width = 0.7\textwidth]
+l.447 \includegraphics[width = 0.7\textwidth]
                                              {CL_OL_comp}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -18686,13 +18555,13 @@ Missing character: There is no L in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.461 \includegraphics[width = 0.7\textwidth]{CL_
+l.447 \includegraphics[width = 0.7\textwidth]{CL_
                                                  OL_comp}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.461 ...aphics[width = 0.7\textwidth]{CL_OL_comp}
+l.447 ...aphics[width = 0.7\textwidth]{CL_OL_comp}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -18707,7 +18576,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.462 \caption
+l.448 \caption
               {Comparison between open-loop and closed-loop step response}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -18719,7 +18588,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.464 \end{figure}
+l.450 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -18728,7 +18597,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.464 \end{figure}
+l.450 \end{figure}
                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -18739,7 +18608,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.464 \end{figure}
+l.450 \end{figure}
                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -18748,12 +18617,12 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 459--465
+Overfull \hbox (20.0pt too wide) in paragraph at lines 445--451
 []
  []
 
 
-Overfull \hbox (308.75131pt too wide) in paragraph at lines 459--465
+Overfull \hbox (308.75131pt too wide) in paragraph at lines 445--451
 []\OML/cmm/m/it/10 L[]omp[][]$ 
  []
 
@@ -18768,7 +18637,7 @@ Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
 <write> ...rence `fig::PID_comp' on page \thepage 
                                                   \space undefined\on@line .
-l.466 In figure \ref{fig::PID_comp}
+l.452 In figure \ref{fig::PID_comp}
                                    , the yellow curve represents the open-lo...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -18777,7 +18646,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig::PID_comp' on page  undefined on input line 466.
+LaTeX Warning: Reference `fig::PID_comp' on page  undefined on input line 452.
 
 Missing character: There is no , in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -19078,17 +18947,17 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 466--467
+Overfull \hbox (20.0pt too wide) in paragraph at lines 452--453
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 466--467
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 452--453
 []
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 468--468
+Overfull \hbox (20.0pt too wide) in paragraph at lines 454--454
 [] 
  []
 
@@ -19225,7 +19094,7 @@ Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
 <write> ...ence `fig::PID_tuner' on page \thepage 
                                                   \space undefined\on@line .
-l.474 ...d to those in figure \ref{fig::PID_tuner}
+l.460 ...d to those in figure \ref{fig::PID_tuner}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -19234,17 +19103,17 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig::PID_tuner' on page  undefined on input line 474.
+LaTeX Warning: Reference `fig::PID_tuner' on page  undefined on input line 460.
 
 
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 474--475
+Overfull \hbox (20.0pt too wide) in paragraph at lines 460--461
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 474--475
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 460--461
 [] 
  []
 
@@ -19255,7 +19124,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.476 \begin{figure}
+l.462 \begin{figure}
                     [h]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -19265,7 +19134,7 @@ Missing character: There is no [ in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.478 \includegraphics
+l.464 \includegraphics
                       [width = 0.7\textwidth]{PID_tuner}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -19286,7 +19155,7 @@ Missing character: There is no 7 in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.478 \includegraphics[width = 0.7\textwidth]
+l.464 \includegraphics[width = 0.7\textwidth]
                                              {PID_tuner}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -19295,7 +19164,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.478 \includegraphics[width = 0.7\textwidth]
+l.464 \includegraphics[width = 0.7\textwidth]
                                              {PID_tuner}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -19311,13 +19180,13 @@ Missing character: There is no D in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.478 \includegraphics[width = 0.7\textwidth]{PID_
+l.464 \includegraphics[width = 0.7\textwidth]{PID_
                                                   tuner}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.478 ...raphics[width = 0.7\textwidth]{PID_tuner}
+l.464 ...raphics[width = 0.7\textwidth]{PID_tuner}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -19332,7 +19201,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.479 \caption
+l.465 \caption
               {Matlab PID tuner and gains adjustment}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -19344,7 +19213,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.481 \end{figure}
+l.467 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -19353,7 +19222,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.481 \end{figure}
+l.467 \end{figure}
                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -19364,7 +19233,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.481 \end{figure}
+l.467 \end{figure}
                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -19373,12 +19242,12 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 476--482
+Overfull \hbox (20.0pt too wide) in paragraph at lines 462--468
 []
  []
 
 
-Overfull \hbox (195.65599pt too wide) in paragraph at lines 476--482
+Overfull \hbox (195.65599pt too wide) in paragraph at lines 462--468
 []\OML/cmm/m/it/10 uner[][]$ 
  []
 
@@ -19548,10 +19417,10 @@ Missing character: There is no . in font nullfont!
 
  
 Here is how much of TeX's memory you used:
- 64 strings out of 493333
- 667 string characters out of 3143095
+ 65 strings out of 493333
+ 680 string characters out of 3143095
  68242 words of memory out of 3000000
- 3691 multiletter control sequences out of 15000+200000
+ 3692 multiletter control sequences out of 15000+200000
  3948 words of font info for 15 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  19i,7n,21p,624b,132s stack positions out of 5000i,500n,10000p,200000b,50000s

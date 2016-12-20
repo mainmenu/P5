@@ -87,3 +87,5 @@
 \contentsline {chapter}{\numberline {D}Raspberry Pi}{65}{appendix.D}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {E}Source Code}{69}{appendix.E}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {F}Schematics}{75}{appendix.F}
