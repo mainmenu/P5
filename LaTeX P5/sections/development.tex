@@ -259,7 +259,7 @@ Below is a section of the code, with the function for data acquisition after fil
 \end{lstlisting}
 
 The data reading is straightforward. The \textbf{TRIG} pin emits an ultrasonic impulse from a each of the sensors in addition to a digital timestamp that records the exact time of the event. When the impulse reaches back the sensor, a second timestamp is recorded. The logic behind it is that every loop should take equal amount of time for execution. 
-The first timestamp in the beginning of the loop is initialized with \textbf{$read_time_start1 = time.time().$} and calculated afterwards in \textbf{$time.sleep(0.05-(time.time()-read_time_start1))$}. The expected cycle length is 0.05 second and is done to ensure that reading are acquired in the sensing range 0.02m to 4m. (For further information consult with the data sheet in Apendix \todo{ref to appendix}. 
+The first timestamp in the beginning of the loop is initialized with \textbf{$read_time_start1 = time.time().$} and calculated afterwards in \textbf{$time.sleep(0.05-(time.time()-read_time_start1))$}. The expected cycle length is 0.05 second and is done to ensure that reading are acquired in the sensing range 0.02m to 4m.
 The set time of 0.05 second is used, as it would give the range, limited by time.
 
 \begin{equation}
